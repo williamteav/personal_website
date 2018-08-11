@@ -22,4 +22,6 @@ My hobby took off during my first year in high school, when I purchased a Revell
 * North American F-86F-30 Sabre 
 * Supermarine Spitfire Mk 1
 
+Current Project: Sukhoi Su-47 Berkut
+
 My goal is to eventually dedicate a page to each completed model. Meanwhile images of my models can be found on my Facebook. 
