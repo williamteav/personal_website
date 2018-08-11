@@ -2,6 +2,7 @@
 ---
 Model Airplanes
 ---
+
 ![F-15](IMG_1360.JPG) 
 I began building model aircraft during my freshman year of high school. My first model was a Revell SnapTite Harrier GR7. That kit was prepainted and required simple assembly. I then moved on to models that required painting and gluing. Initially I built only 1/72 scale World War II aircraft. Soon I built kits of aircraft in different scales and from other time periods. 
 
