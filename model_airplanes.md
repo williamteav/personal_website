@@ -2,7 +2,9 @@
 ---
 Model Airplanes
 ---
-My hobby took off during my first year in high school, when I purchased a Revell SnapTite Harrier GR7. Ever since then, I have assembled numerous aircraft.
+![](https://github.com/williamteav/personal_website/blob/master/IMG_1360.JPG) 
+I began building model aircraft during my freshman year of high school. My first model was a Revell SnapTite Harrier GR7. That kit was prepainted and required simple assembly. I then moved on to models that required painting and gluing. Initially I built only 1/72 scale World War II aircraft. Soon I built kits of aircraft in different scales and from other time periods. 
+
 ## Kits Built
 
 * Dassault Mirage III
