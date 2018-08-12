@@ -22,6 +22,6 @@ I began building model aircraft during my freshman year of high school. My first
 * North American F-86F-30 Sabre 
 * Supermarine Spitfire Mk 1
 
-Current Project: Sukhoi Su-47 Berkut
+Current Project: [Sukhoi Su-47 Berkut](https://github.com/williamteav/personal_website/blob/master/model_airplanes/su47.html)
 
 My goal is to eventually dedicate a page to each completed model. Meanwhile images of my models can be found on my Facebook. 
