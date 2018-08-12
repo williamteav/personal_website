@@ -13,7 +13,7 @@ I see myself as a fairly casual builder. I prefer simple builds that can be done
 * Ilyushin Il-28
 * Kawanishi N1K2 Shiden-Kai
 * Kawasaki Ki-61 Hien 
-* McDonnell Douglas F-15A Eagle
+* [McDonnell Douglas F-15A Eagle](https://williamteav.github.io/personal_website/model_airplanes/f15.html)
 * Messerchmitt Bf 109 E-3
 * Mikoyan-Gurevich MiG-15
 * Mikoyan-Gurevich MiG-19
