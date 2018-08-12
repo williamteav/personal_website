@@ -11,7 +11,7 @@ I see myself as a fairly casual builder. I prefer simple builds that can be done
 * Douglas SBD-3 Dauntless
 * Hawker Sea Hawk FGA.6
 * Ilyushin Il-28
-* [Kawanishi N1K2 Shiden-Kai](https://williamteav.github.io/personal_website/model_airplanes/n1k2.html)
+* [Kawanishi N1K2-J Shiden-Kai](https://williamteav.github.io/personal_website/model_airplanes/n1k2.html)
 * Kawasaki Ki-61 Hien 
 * [McDonnell Douglas F-15A Eagle](https://williamteav.github.io/personal_website/model_airplanes/f15.html)
 * Messerchmitt Bf 109 E-3
