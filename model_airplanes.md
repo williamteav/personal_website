@@ -15,7 +15,7 @@ I see myself as a fairly casual builder. I prefer simple builds that can be done
 * Kawasaki Ki-61 Hien 
 * [McDonnell Douglas F-15A Eagle](https://williamteav.github.io/personal_website/model_airplanes/f15.html)
 * Messerchmitt Bf 109 E-3
-* [Mikoyan-Gurevich MiG-15](https://williamteav.github.io/personal_website/model_airplanes/mig15.html)
+* [Mikoyan-Gurevich MiG-15bis](https://williamteav.github.io/personal_website/model_airplanes/mig15.html)
 * Mikoyan-Gurevich MiG-19
 * Mikoyan-Gurevich MiG-21
 * Mikoyan-Gurevich MiG-25
