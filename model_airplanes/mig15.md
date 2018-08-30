@@ -1,5 +1,5 @@
 # Mikoyan-Gurevich MiG-15bis  (built August 2018)
-<img src="mig15box.JPG" alt="box cover" class="center">
+<img src="mig15box.JPG" alt="box cover" class="center" width="50%" height="50%">
 
 ## The Plane
 <img src="mig15irl.JPG" alt="mig-15" class="center">
