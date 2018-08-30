@@ -32,11 +32,11 @@ This model is one of HobbyBoss's 1/72 Easy Assembly kits. My F-86 Sabre was also
 The instructions do not mention this model being tail-heavy (the images on the side of the box clear show a tilted model.) I remedied this issue by placing weights and putty around the cockput. Otherwise, the rest of the build was smooth and easy. 
 
 ## The Result
-<img src="mig1501.JPG" alt="model">
-<img src="mig1502.JPG" alt="model">
-<img src="mig1503.JPG" alt="model">
-<img src="mig1504.JPG" alt="model">
-<img src="mig1505.JPG" alt="model">
+<img src="mig1501.jpg" alt="model">
+<img src="mig1502.jpg" alt="model">
+<img src="mig1503.jpg" alt="model">
+<img src="mig1504.jpg" alt="model">
+<img src="mig1505.jpg" alt="model">
 
 
 
