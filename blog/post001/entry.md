@@ -16,37 +16,105 @@ This hangar is home to numerous civilian aircraft which took to the skies betwee
 
 Almost every single American and Candadian WWI pilot trained in a JN-4D Jenny. Following the war, many civilians were able to purchase surplus aircraft and use them for barnstorming. 
 
+<center>
+<img src="IMG_2009.JPG" width="70%" height="70%">
+</center>
+
 Another World War I trainer, the S-4C Scout prepared pilots to fly more advanced fighters. Swift and agile, the Scout managed to win an air race in 1924.
+
+<center>
+<img src="IMG_2030.JPG" width="70%" height="70%">
+</center>
 
 Highly imitated for its success, the Swallow TP was a simple, rugged, low-cost sport plane.
 
+<center>
+<img src="IMG_2017.JPG" width="70%" height="70%">
+</center>
+
 The 4-D Junior Speedmail was used for a variety of applications such as mail delivery and crop dusting.
+
+<center>
+<img src="IMG_2047.JPG" width="70%" height="70%">
+</center>
 
 Only seven examples of the YPT-9B Cloudboy were produced. 
 
+<center>
+<img src="IMG_2021.JPG" width="70%" height="70%">
+</center>
+
 The Brunner-Winkle Bird BK could take off in less than 100 feet of runway. It handled well and was popular amongst many famous aviators. 
+
+<center>
+<img src="IMG_2013.JPG" width="70%" height="70%">
+</center>
 
 Designed and produced in Canada, the Fleet Model 7 was a rugged trainer popular with many flying schools.
 
+<center>
+<img src="IMG_2063.JPG" width="70%" height="70%">
+</center>
+
 A legend of the Golden Age, the Gipsy Moth set records in multiple areas. One pilot even performed 344 loops in one hour and three minutes.
+
+<center>
+<img src="IMG_2024.JPG" width="70%" height="70%">
+</center>
 
 The Ryan B-1 Brougham is the sister plane to the Spirit of St. Louis. It was idolized as the "Flying Utopia."
 
+<center>
+<img src="IMG_2050.JPG" width="70%" height="70%">
+</center>
+
 The Command-Aire 3C3 won the 1930 All American Derby race. The subsequent year, Command-Aire became a victim of the Great Depression.
+
+<center>
+<img src="IMG_2015.JPG" width="70%" height="70%">
+</center>
 
 In 1929, a C-1 Robin set an endurance record by staying airborne for nearly 18 days. 
 
+<center>
+<img src="IMG_2023.JPG" width="70%" height="70%">
+</center>
+
 The Kellet KD-1 first flew in 1934 and was briefly used for mail delivery by Eastern Air Lines. 
+
+<center>
+<img src="IMG_2086.JPG" width="70%" height="70%">
+</center>
 
 A training biplane for the United States Navy, the N3N could be configured as a seaplane. The N3N was finally retired in 1961. 
 
+<center>
+<img src="IMG_2095.JPG" width="70%" height="70%">
+</center>
+
 The Vultee Valiant was the most numerous American trainer of World War II. Several were modified to resemble Japanese aircraft for Tora! Tora! Tora!
+
+<center>
+<img src="IMG_2088.JPG" width="70%" height="70%">
+</center>
 
 The P-38 Lightning was the only American aircraft in production throughout the entirety of the war years. Perhaps the most legendary exploit of this twin-boom fighter was when a group of Lightnings intercepted and shot down Admiral Isoruku Yamamoto, the architect of the attack on Pearl Harbor. This particular variant was modified for photo reconaissance. 
 
+<center>
+<img src="IMG_2075.JPG" width="70%" height="70%">
+</center>
+
 It took about four months between design and flight for the P-51 Mustang. The first Mustangs were the P-51As equipped with the Allison engine, which performed poorly at high altitude. Once the Rolls-Royce Merlin engine was installed, the P-51 was able to escort high-flying bombers all the way to Berlin. The Mustang also participated in the Pacific Theater. Postwar, the P-51 saw action in Korea and many still fly today, particularly as air racers. 
 
+<center>
+<img src="IMG_2066.JPG" width="70%" height="70%">
+</center>
+
 The only flying P-47M Thunderbolt in the world resides in the Legends Hangar. Designed by Republic Aviation, the P-47 saw extensive service during World War II, escorting bombers and strafing ground targets.
+
+<center>
+<img src="IMG_2064.JPG" width="70%" height="70%">
+</center>
 
 During World War II, the Germans launched thousands of V-1 flying bombs against London. 
 
@@ -64,35 +132,91 @@ The SBD Dauntless dive-bomber became famous for sinking four Japanese carriers d
 
 The F4F Wildcat was the Navy's primary fighter during the early battles of the Pacific War. Although designed by Grumman, some Wildcats were produced by General Motors. These were known as FM-2 Wildcats.  
 
+<center>
+<img src="IMG_2247.JPG" width="70%" height="70%">
+</center>
+
 During World War II, the Japanese designed the MXY-7 Ohka. Essentially a piloted bomb, the Ohka would be carried aboard a bomber. Once within range, the Ohka would be dropped and rockets would propel it towards its target. 
+
+<center>
+<img src="IMG_2171.JPG" width="70%" height="70%">
+</center>
 
 The swept-wing F-86 Sabre dueled with the MiG-15 in the skies over Korea. In 1958, a Taiwanese Sabre became the first aircraft to shoot down another plane using an air-to-air missile.  
 
+<center>
+<img src="IMG_2114.JPG" width="70%" height="70%">
+</center>
+
 The Navy's first operational jet fighter, the FJ-1 Fury saw brief service and was retired in 1953.
 
+<center>
+<img src="IMG_2142.JPG" width="70%" height="70%">
+</center>
+
 This F9F Cougar was modified to be a RF-9J for reconaissance activities. 
+
+<center>
+<img src="IMG_2253.JPG" width="70%" height="70%">
+</center>
 
 This Bell OH-13 Sioux is configured for medical evacuations. 
 
 Also known as "Huey," the UH-1 Iroquois remains iconic for its participation in the Vietnam War and subsequent appearances in films.  
 
+<center>
+<img src="IMG_2197.JPG" width="70%" height="70%">
+</center>
+
 The Hawker Harrier is unique for its ability to take off vertically. Designed by the British (who have since retired it), the Harrier remains in service with the United States, Italy, and Spain. 
 
-F-5E Tiger II won the International Fighter Aircraft competition and was exported to 19 countries. The one on display was built for the ROCAF. 
+<center>
+<img src="IMG_2166.JPG" width="70%" height="70%">
+</center>
+
+The F-5E Tiger II won the International Fighter Aircraft competition and was exported to 19 countries. The one on display was built for the ROCAF. 
+
+<center>
+<img src="IMG_2180.JPG" width="70%" height="70%">
+</center>
 
 The first USAF fighter capable of supersonic level flight, the F-100 Super Sabre set several speed records.
+
+<center>
+<img src="IMG_2164.JPG" width="70%" height="70%">
+</center>
 
 The F-11 Tiger managed to shoot itself down with its own bullets. 
 
 A light attack jet, the A-4 Skyhawk participated in the Vietnam War, Yom Kippur War, Falklands War, and Gulf War. 
 
+<center>
+<img src="IMG_2182.JPG" width="70%" height="70%">
+</center>
+
 Designed to intercept Soviet bombers, the F-106 Delta Dart is the world's fastest single-engine fighter.
+
+<center>
+<img src="IMG_2224.JPG" width="70%" height="70%">
+</center>
 
 Intended to defend the carrier fleet against Soviet aircraft, the F-14 Tomcat was the last of the Grumman Cats. 
 
+<center>
+<img src="IMG_2204.JPG" width="70%" height="70%">
+</center>
+
 Excelling in air superiority with over 100 victories, no F-15 Eagle has ever been shot down by an opposing aircraft. 
 
+<center>
+<img src="IMG_2220.JPG" width="70%" height="70%">
+</center>
+
 An all-weather multirole fighter, the F-16 Fighting Falcon equips the airforces of 26 nations. This aircraft bear the markings of the USAF Thunderbirds, who continue to show off the F-16's maneuverability at airshows. 
+
+<center>
+<img src="IMG_2104.JPG" width="70%" height="70%">
+</center>
 
 The F/A-18 Hornet is the current workhorse of the United States Navy. The Hornet is versatile with an ability to serve both fighter and attack roles. The aircraft on display features livery of the Blue Angels, the Navy's flight demonstration team.  
 
