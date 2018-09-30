@@ -10,6 +10,10 @@ Yanks is located in Chino, a half-hour's drive from where I currently attend col
 
 This hangar is home to numerous civilian aircraft which took to the skies between the Wright Brothers' first flight and World War II. A number of World War II aircraft also reside in this building. 
 
+<center>
+<img src="IMG_2001.JPG" width="70%" height="70%">
+</center>
+
 Almost every single American and Candadian WWI pilot trained in a JN-4D Jenny. Following the war, many civilians were able to purchase surplus aircraft and use them for barnstorming. 
 
 Another World War I trainer, the S-4C Scout prepared pilots to fly more advanced fighters. Swift and agile, the Scout managed to win an air race in 1924.
@@ -130,6 +134,5 @@ The heaviest aircraft to operate off an aircraft carrier, the A-3 Skywarrior ser
 
 The C-131F Samaritan was utilized for medical evacuation and VIP transport. 
 
-<img src="f15sprues.JPG" alt="sprues" width="70%" height="70%" class="center">
 
 
