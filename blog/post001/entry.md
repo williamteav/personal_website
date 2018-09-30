@@ -122,13 +122,33 @@ During World War II, the Germans launched thousands of V-1 flying bombs against 
 
 A large number of military aircraft spanning World War II to the modern day are located in this hangar. 
 
+<center>
+<img src="IMG_2284.JPG" width="70%" height="70%">
+</center>
+
 The P-39 Airacobra is distinctive for its tricycle landing gear and 37mm nose cannon. Many P-39s were delivered to the Soviet Union, who used them effectively against the German Luftwaffe. 
+
+<center>
+<img src="IMG_2306.JPG" width="70%" height="70%">
+</center>
 
 The P-39 was further developed into the P-63 Kingcobra. With better alternatives to choose from, the USAAF did not adopt the Kingcobra for combat and instead used them as flying targets. 
 
+<center>
+<img src="IMG_2278.JPG" width="70%" height="70%">
+</center>
+
 Yanks Air Museum has not one, but two, P-47 Thunderbolts. This particular aircraft is a P-47D. 
 
+<center>
+<img src="IMG_2328.JPG" width="70%" height="70%">
+</center>
+
 The SBD Dauntless dive-bomber became famous for sinking four Japanese carriers during the Battle of Midway.
+
+<center>
+<img src="IMG_2356.JPG" width="70%" height="70%">
+</center>
 
 The F4F Wildcat was the Navy's primary fighter during the early battles of the Pacific War. Although designed by Grumman, some Wildcats were produced by General Motors. These were known as FM-2 Wildcats.  
 
@@ -161,6 +181,10 @@ This F9F Cougar was modified to be a RF-9J for reconaissance activities.
 </center>
 
 This Bell OH-13 Sioux is configured for medical evacuations. 
+
+<center>
+<img src="IMG_2268.JPG" width="70%" height="70%">
+</center>
 
 Also known as "Huey," the UH-1 Iroquois remains iconic for its participation in the Vietnam War and subsequent appearances in films.  
 
@@ -224,13 +248,35 @@ The F/A-18 Hornet is the current workhorse of the United States Navy. The Hornet
 
 Aircraft in need of assembly and repair are placed in the restoration hangar.
 
+<center>
+<img src="IMG_2122.JPG" width="70%" height="70%">
+</center>
+
 Replacing the SBD Dauntless, the SB2C Helldiver saw action in the later battles of the Pacific Theater and contributed to sinking the world's two largest battleships. 
+
+<center>
+<img src="IMG_2412.JPG" width="70%" height="70%">
+</center>
 
 The F4U Corsair was a fast aircraft and participated in both World War II and the Korean War. The Japanese nicknamed the plane "Whistling Death." The Corsair excelled at both air combat and ground attack. 
 
+<center>
+<img src="IMG_2405.JPG" width="70%" height="70%">
+</center>
+
 Entering service in 1942, the TBF Avenger was primarily a torpedo bomber although it could also be armed with bombs, depth charges, or rockets. Avengers were used against both surface ships and submarines, taking part in operations across the Pacific and Atlantic. Postwar, several TBFs were modified to fight wildfires. 
 
+<center>
+<img src="IMG_2420.JPG" width="70%" height="70%">
+</center>
+
 The F6F Hellcat scored a kill ratio of 19:1, the highest of any Allied aircraft. The Hellcats are most known for their accomplishments in the Pacific although several were used against the Germans in Europe. 
+
+<center>
+<img src="IMG_2425.JPG" width="70%" height="70%">
+</center>
+
+The P-40 Warhawk saw service on all fronts during World War II.
 
 ### Boneyard
 
@@ -238,25 +284,68 @@ Aircraft in queue for restoration reside in the museum's boneyard.
 
 During World War II, the C-46 Commando provided supplies from India to China by flying over the Himalayas. 
 
+<center>
+<img src="IMG_2465.JPG" width="70%" height="70%">
+</center>
+
 A navalized version of the B-24 Liberator, the PB4Y-2 Privateer was heavily armed and designed for lone patrol missions. 
+
+<center>
+<img src="IMG_2459.JPG" width="70%" height="70%">
+</center>
 
 A transport aircraft, the C-123K Provider flew covert operations in Southeast Asia and Central America. 
 
-The A-6E Intruder is the world's first all-weather attack aircraft. The Intruder utlized a Target Recognition Attack Multisensors (TRAM) system to locate and range targets. During the Vietnam War, it proved able to attack targets in the middle of the night with pinpoint precision. 
-
-Scanning the skies for incoming Soviet attacks, the EC-121 Warning Star was equipped with a variety of surveillance tools. 
-
-Equipped with a spinning radome, the E-2C Hawkeye is a carrier-based airborne early warning (AEW) platform designed to monitor airspace and direct aircraft. 
-
-Replacing the A-4 Skyhawk, the A-7 Corsair II was based on the F-8 Crusader. USAF Corsair IIs flew nearly 13,000 missions during the Vietnam War, losing a mere six aircraft. 
-
-A supersonic tactical bomber, the F-105 Thunderchief was heaviest single-engine aircraft in history. During the Vietnam War, the Thuds were the primary strike aircraft. Several were modified for Wild Weasel operations against North Vietnamese air defense.
-
-The F-4 Phantom II was the main fighter during the Vietnam War and saw additional action in the Middle East. The F-4 remains in service today with Egypt, Greece, Iran, Japan, South Korea, and Turkey.
-
-The heaviest aircraft to operate off an aircraft carrier, the A-3 Skywarrior served as a long-range nuclear bomber. This Skywarrior was modified as a KA-3B aerial tanker. 
+<center>
+<img src="IMG_2455.JPG" width="70%" height="70%">
+</center>
 
 The C-131F Samaritan was utilized for medical evacuation and VIP transport. 
 
+<center>
+<img src="IMG_2469.JPG" width="70%" height="70%">
+</center>
+
+The A-6E Intruder is the world's first all-weather attack aircraft. The Intruder utlized a Target Recognition Attack Multisensors (TRAM) system to locate and range targets. During the Vietnam War, it proved able to attack targets in the middle of the night with pinpoint precision. 
+
+<center>
+<img src="IMG_2480.JPG" width="70%" height="70%">
+</center>
+
+Scanning the skies for incoming Soviet attacks, the EC-121 Warning Star was equipped with a variety of surveillance tools. 
+
+<center>
+<img src="IMG_2439.JPG" width="70%" height="70%">
+</center>
+
+Equipped with a spinning radome, the E-2C Hawkeye is a carrier-based airborne early warning (AEW) platform designed to monitor airspace and direct aircraft.
+
+<center>
+<img src="IMG_2476.JPG" width="70%" height="70%">
+</center>
+
+Replacing the A-4 Skyhawk, the A-7 Corsair II was based on the F-8 Crusader. USAF Corsair IIs flew nearly 13,000 missions during the Vietnam War, losing a mere six aircraft. 
+
+<center>
+<img src="IMG_2481.JPG" width="70%" height="70%">
+</center>
+
+A supersonic tactical bomber, the F-105 Thunderchief was heaviest single-engine aircraft in history. During the Vietnam War, the Thuds were the primary strike aircraft. Several were modified for Wild Weasel operations against North Vietnamese air defense.
+
+<center>
+<img src="IMG_2471.JPG" width="70%" height="70%">
+</center>
+
+The F-4 Phantom II was the main fighter during the Vietnam War and saw additional action in the Middle East. The F-4 remains in service today with Egypt, Greece, Iran, Japan, South Korea, and Turkey.
+
+<center>
+<img src="IMG_2479.JPG" width="70%" height="70%">
+</center>
+
+The heaviest aircraft to operate off an aircraft carrier, the A-3 Skywarrior served as a long-range nuclear bomber. This Skywarrior was modified as a KA-3B aerial tanker. 
+
+<center>
+<img src="IMG_2441.JPG" width="70%" height="70%">
+</center>
 
 
