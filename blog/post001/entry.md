@@ -212,6 +212,10 @@ The first USAF fighter capable of supersonic level flight, the F-100 Super Sabre
 
 The F-11 Tiger managed to shoot itself down with its own bullets. 
 
+<center>
+<img src="IMG_2162.JPG" width="70%" height="70%">
+</center>
+
 A light attack jet, the A-4 Skyhawk participated in the Vietnam War, Yom Kippur War, Falklands War, and Gulf War. 
 
 <center>
