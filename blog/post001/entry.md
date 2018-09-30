@@ -1,10 +1,10 @@
 # Yanks Air Museum
 
-On September 22, 2018, many museums across the United States offered free admission through a partnership with Smithsonian Magazine. Yanks Air Museum was a participating location and appealed to my interest in historical aircraft.  
+On September 22, 2018, museums across the United States offered free admission through a partnership with Smithsonian Magazine. Yanks Air Museum was a participating location and appealed to my interest in historical aircraft.  
 
 ## About The Museum
 
-Yanks is located in Chino, a half-hour's drive from where I currently attend college. Established in 1973, the museum focuses on preserving and restoring American aircraft. Yanks is one of two museums located on the grounds of Chino Airport, the other being the Planes of Fame Air Museum. The museum is rather cramped with its massive collection, making it difficult to obtain the best photos.
+Established in 1973, Yanks Air Museum focuses on preserving and restoring American aircraft. Yanks is one of two museums located on the grounds of Chino Airport, the other being the Planes of Fame Air Museum. The museum boasts a collection of nearly two hundred aircraft. 
 
 ### Legends Hangar
 
@@ -56,13 +56,13 @@ Designed and produced in Canada, the Fleet Model 7 was a rugged trainer popular 
 <img src="IMG_2063.JPG" width="70%" height="70%">
 </center>
 
-A legend of the Golden Age, the Gipsy Moth set records in multiple areas. One pilot even performed 344 loops in one hour and three minutes.
+A legend of the Golden Age, the Gipsy Moth set records in multiple areas. One pilot even managed to perform 344 loops in one hour and three minutes.
 
 <center>
 <img src="IMG_2024.JPG" width="70%" height="70%">
 </center>
 
-The Ryan B-1 Brougham is the sister plane to the Spirit of St. Louis. It was idolized as the "Flying Utopia."
+The Ryan B-1 Brougham is the sister plane to the Spirit of St. Louis. Its was idolized as the "Flying Utopia."
 
 <center>
 <img src="IMG_2050.JPG" width="70%" height="70%">
@@ -110,13 +110,13 @@ It took about four months between design and flight for the P-51 Mustang. The fi
 <img src="IMG_2066.JPG" width="70%" height="70%">
 </center>
 
-The only flying P-47M Thunderbolt in the world resides in the Legends Hangar. Designed by Republic Aviation, the P-47 saw extensive service during World War II, escorting bombers and strafing ground targets.
+The only flying P-47M Thunderbolt in the world resides in the Legends Hangar. Designed by Republic Aviation, the P-47 saw extensive service during World War II, escorting bombers and attacking ground targets.
 
 <center>
 <img src="IMG_2064.JPG" width="70%" height="70%">
 </center>
 
-During World War II, the Germans launched thousands of V-1 flying bombs against London. 
+During World War II, the Germans launched thousands of V-1 flying bombs against London. The V-1s were also known as buzz bombs due to the sound produced by their pulse jets. 
 
 ### Starfighter Hangar
 
@@ -253,7 +253,7 @@ The F/A-18 Hornet is the current workhorse of the United States Navy. The Hornet
 Aircraft in need of assembly and repair are placed in the restoration hangar.
 
 <center>
-<img src="IMG_2122.JPG" width="70%" height="70%">
+<img src="IMG_2422.JPG" width="70%" height="70%">
 </center>
 
 Replacing the SBD Dauntless, the SB2C Helldiver saw action in the later battles of the Pacific Theater and contributed to sinking the world's two largest battleships. 
