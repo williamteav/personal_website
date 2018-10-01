@@ -1,10 +1,8 @@
 # Yanks Air Museum
 
-On September 22, 2018, museums across the United States offered free admission through a partnership with Smithsonian Magazine. Yanks Air Museum was a participating location and appealed to my interest in historical aircraft.  
+Established in 1973, Yanks Air Museum focuses on preserving and restoring American aircraft. Yanks is one of two museums located on the grounds of Chino Airport (the other being Planes of Fame Air Museum.) The museum boasts a collection of nearly two hundred aircraft. 
 
-## About The Museum
-
-Established in 1973, Yanks Air Museum focuses on preserving and restoring American aircraft. Yanks is one of two museums located on the grounds of Chino Airport, the other being the Planes of Fame Air Museum. The museum boasts a collection of nearly two hundred aircraft. 
+I visited Yanks on September 22 during their Museum Day promotion. Yanks was one of many museums across the United States offering free admission through a partnership with Smithsonian Magazine. I also enjoy looking at preserved history and managed to free up a Saturday afternoon. 
 
 ### Legends Hangar
 
