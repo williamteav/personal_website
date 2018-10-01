@@ -349,7 +349,7 @@ A supersonic tactical bomber, the F-105 Thunderchief was heaviest single-engine 
 The F-4 Phantom II was the primary American fighter during the Vietnam War and saw additional action in the Middle East. The F-4 remains in service today with Egypt, Greece, Iran, Japan, South Korea, and Turkey.
 
 <center>
-<img src="IMG_2441.JPG" width="70%" height="70%">
+<img src="IMG_2449.JPG" width="70%" height="70%">
 </center>
 
 The heaviest aircraft to operate off an aircraft carrier, the A-3 Skywarrior served as a long-range nuclear bomber. The plane was notable for not having ejection seats. This Skywarrior was modified to be a KA-3B aerial tanker. 
