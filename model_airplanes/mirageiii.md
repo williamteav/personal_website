@@ -1,5 +1,5 @@
 # Dassault Mirage III (built January 2017)
-<img src="mirageiii.jpg" alt="Mirage III box" width="50%" height="50%" class="center">
+<img src="mirageiiibox.jpg" alt="Mirage III box" width="50%" height="50%" class="center">
 
 ## The Plane
 The Sukhoi Su-47 Berkut first flew in 1997 as a technology demonstrator. It featured forward-swept wings which provided excellent maneuverability. Only one aircraft was produced. 
