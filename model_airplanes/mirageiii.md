@@ -21,5 +21,5 @@ I bought this kit online in 2016 during Airfix's Black Friday sale. Being a rela
 Being an old Airfix kit, the build was very simple and straightforward. The model has the markings of a French Air Force Mirage III stationed in East Africa during the early 1980s. 
 
 ## The Result
-<img src="mirageiii5.jpg" alt="sprues" width="100%" height="100%" class="center"> 
+<img src="mirageiii5.JPG" alt="sprues" width="100%" height="100%" class="center"> 
 
