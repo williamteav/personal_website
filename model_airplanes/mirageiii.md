@@ -2,21 +2,24 @@
 <img src="mirageiiibox.jpg" alt="Mirage III box" width="50%" height="50%" class="center">
 
 ## The Plane
-The Sukhoi Su-47 Berkut first flew in 1997 as a technology demonstrator. It featured forward-swept wings which provided excellent maneuverability. Only one aircraft was produced. 
+A single-engine interceptor capable of Mach 2 flight, the Mirage III entered service in 1961 and saw combat in the Middle East, Africa, and South America. Designed by the French firm Dassault Aviation, the aircraft featured a delta wing configuration and lacked horizontal stabilizers. 
 
 ## The Kit
-<img src="su47sprues02.JPG" alt="sprues" width="45%" height="45%" class="center"> <img src="su47sprues01.JPG" alt="sprues" width="45%" height="45%" class="center">
+<img src="mirageiiiparts.jpg" alt="sprues" width="100%" height="100%" class="center"> <img src="su47sprues01.JPG" alt="sprues" width="45%" height="45%" class="center">
 
-The kit is 1/144 Trumpeter. It consists of 57 parts on four sprues. The parts contain minimal flash.
+I bought this kit online in 2016 during Airfix's Black Friday sale. Being a relatively old Airfix kit, there were fewer parts and thicker sprues. 
 
 ## The Build
-The instructions were printed on a single side of paper and consisted of six steps. However, there was no guidance for painting interior surfaces, such as the cockpit and wheel wells. There were also no cockpit decals. 
+<img src="mirageiii1.jpg" alt="sprues" width="100%" height="100%" class="center"> <img src="su47sprues01.JPG" alt="sprues" width="45%" height="45%" class="center">
 
-<img src="su47cockpit01.jpg" alt="cockpit" width="30%" height="30%" class="center"> <img src="IMG_1445.JPG" alt="cockpit" width="30%" height="30%" class="center">
+<img src="mirageiii2.jpg" alt="sprues" width="100%" height="100%" class="center"> <img src="su47sprues01.JPG" alt="sprues" width="45%" height="45%" class="center">
 
+<img src="mirageiii3.jpg" alt="sprues" width="100%" height="100%" class="center"> <img src="su47sprues01.JPG" alt="sprues" width="45%" height="45%" class="center">
 
-I began by assembling the tiny cockpit. Unable to find an image of a Su-47 cockpit, I decided to follow the standard for Sukhoi fighters and painted the interior a light blue-gray.
+<img src="mirageiii4.jpg" alt="sprues" width="100%" height="100%" class="center"> <img src="su47sprues01.JPG" alt="sprues" width="45%" height="45%" class="center">
+
+Being an old Airfix kit, the build was very simple and straightforward. The model has the markings of a French Air Force Mirage III stationed in East Africa during the early 1980s. 
 
 ## The Result
-
+<img src="mirageiii5.jpg" alt="sprues" width="100%" height="100%" class="center"> <img src="su47sprues01.JPG" alt="sprues" width="45%" height="45%" class="center">
 
