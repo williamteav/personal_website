@@ -1,5 +1,5 @@
 # Dassault Mirage III (built January 2017)
-<img src="mirageiiibox.jpg" alt="Mirage III box" width="50%" height="50%" class="Center">
+<img src="mirageiiibox.jpg" alt="Mirage III box" width="50%" height="50%" align="center">
 
 ## The Plane
 A single-engine interceptor capable of Mach 2 flight, the Mirage III entered service in 1961 and saw combat in the Middle East, Africa, and South America. Designed by the French firm Dassault Aviation, the aircraft featured a delta wing configuration and lacked horizontal stabilizers. 
