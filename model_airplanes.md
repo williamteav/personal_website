@@ -23,8 +23,10 @@ I see myself as a fairly casual builder. I prefer simple builds that can be done
 * Nakajima B5N2
 * Nakajima Ki-43-II Hayabusa
 * North American F-86F-30 Sabre 
+* [Sukhoi Su-47 Berkut](https://williamteav.github.io/personal_website/model_airplanes/su47.html)
 * Supermarine Spitfire Mk 1
 
-Current Project: [Sukhoi Su-47 Berkut](https://williamteav.github.io/personal_website/model_airplanes/su47.html)
+
+Current Project: McDonnell Douglas F-4E Phantom II
 
 My goal is to eventually dedicate a page to each completed model. Meanwhile images of my models can be found on my Facebook. 
