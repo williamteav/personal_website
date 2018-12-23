@@ -7,12 +7,13 @@ I see myself as a fairly casual builder. I prefer simple builds that can be done
 
 ## Kits Built
 
-* [Dassault Mirage III](https://williamteav.github.io/personal_website/model_airplanes/mirageIII.html)
+* [Dassault Mirage III](https://williamteav.github.io/personal_website/model_airplanes/mirageiii.html)
 * Douglas SBD-3 Dauntless
 * Hawker Sea Hawk FGA.6
 * Ilyushin Il-28
 * [Kawanishi N1K2-J Shiden-Kai](https://williamteav.github.io/personal_website/model_airplanes/n1k2.html)
 * Kawasaki Ki-61 Hien 
+* Lavochkin La-5
 * [McDonnell Douglas F-15A Eagle](https://williamteav.github.io/personal_website/model_airplanes/f15.html)
 * Messerchmitt Bf 109 E-3
 * [Mikoyan-Gurevich MiG-15bis](https://williamteav.github.io/personal_website/model_airplanes/mig15.html)
