@@ -14,6 +14,7 @@ I see myself as a fairly casual builder. I prefer simple builds that can be done
 * [Kawanishi N1K2-J Shiden-Kai](https://williamteav.github.io/personal_website/model_airplanes/n1k2.html)
 * Kawasaki Ki-61 Hien 
 * Lavochkin La-5
+* [McDonnell Douglas F-4E Phantom II](https://williamteav.github.io/personal_website/model_airplanes/f4.html) 
 * [McDonnell Douglas F-15A Eagle](https://williamteav.github.io/personal_website/model_airplanes/f15.html)
 * Messerchmitt Bf 109 E-3
 * [Mikoyan-Gurevich MiG-15bis](https://williamteav.github.io/personal_website/model_airplanes/mig15.html)
@@ -25,8 +26,5 @@ I see myself as a fairly casual builder. I prefer simple builds that can be done
 * North American F-86F-30 Sabre 
 * [Sukhoi Su-47 Berkut](https://williamteav.github.io/personal_website/model_airplanes/su47.html)
 * Supermarine Spitfire Mk 1
-
-
-Current Project: McDonnell Douglas F-4E Phantom II
 
 My goal is to eventually dedicate a page to each completed model. Meanwhile images of my models can be found on my Facebook. 
