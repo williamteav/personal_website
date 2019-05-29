@@ -1,11 +1,10 @@
 ## Model Airplanes
 
 ![F-15](IMG_1360.JPG) 
-I began building model aircraft during my freshman year of high school. My first model was a Revell SnapTite Harrier GR7. That kit was prepainted and required simple assembly. I then moved on to models that required painting and gluing. Initially I stuck to 1/72 scale World War II aircraft. Eventually I worked on different scales and aircraft types. 
 
-I see myself as a fairly casual builder. I prefer simple builds that can be done over a weekend. I also paint my models entirely by hand using cheap acrylic paints from Michaels. 
+In addition to visiting aviation museums and attending airshows, I also like to put together model aircraft. 
 
-## Kits Built
+## Assembled Aircraft
 
 * [Dassault Mirage III](https://williamteav.github.io/personal_website/model_airplanes/mirageiii.html)
 * Douglas SBD-3 Dauntless
@@ -26,5 +25,3 @@ I see myself as a fairly casual builder. I prefer simple builds that can be done
 * North American F-86F-30 Sabre 
 * [Sukhoi Su-47 Berkut](https://williamteav.github.io/personal_website/model_airplanes/su47.html)
 * Supermarine Spitfire Mk 1
-
-My goal is to eventually dedicate a page to each completed model. Meanwhile images of my models can be found on my Facebook. 
