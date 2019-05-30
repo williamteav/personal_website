@@ -19,6 +19,7 @@ In addition to visiting aviation museums and attending airshows, I also like to 
 * [Mikoyan-Gurevich MiG-15bis](https://williamteav.github.io/personal_website/model_airplanes/mig15.html)
 * Mikoyan-Gurevich MiG-19
 * Mikoyan-Gurevich MiG-21
+* [Mikoyan-Gurevich MiG-23](https://williamteav.github.io/personal_website/model_airplanes/mig23.html)
 * Mikoyan-Gurevich MiG-25
 * Nakajima B5N2
 * Nakajima Ki-43-II Hayabusa
