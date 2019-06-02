@@ -28,4 +28,4 @@ The kit suffered from a few inaccuracies. The rear landing gear was too short, c
 ## The Result
 <img src="mig23 (3).jpg" alt="build" class="center">
 <img src="mig23 (6).jpg" alt="build" class="center">
-<img src="mig23 (5).jpg" alt="build" class="center">
+<img src="mig23 (4).jpg" alt="build" class="center">
