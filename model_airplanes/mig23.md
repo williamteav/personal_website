@@ -1,5 +1,5 @@
 # Mikoyan-Gurevich MiG-23  (built June 2019)
-<img src="mig23 (5).jpg" alt="build" class="center">
+<p align="center"><img src="mig23 (5).jpg" alt="sprues" width="100%" height="100%" class="center"></p>
 
 ## The Plane
 The first fighter aircraft in the world to feature a variable-geometry wing, the MiG-23 was designed to address the shortcomings of the MiG-21. 
