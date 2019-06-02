@@ -23,7 +23,7 @@ The MiG-23 became operational in 1970 and was assigned the NATO reporting name â
 <img src="mig23 (13).JPG" alt="build" class="center">
 <img src="mig23 (1).JPG" alt="build" class="center">
 
-The kit suffers from a few inaccuracies. Notably, the rear landing gear is too short and causes the model to sit on its tailfin. Additionally, the kit has hardpoints on the wings - in reality the MiG-23's missiles were located much closer to the fuselage.
+The kit suffered from a few inaccuracies. The rear landing gear was too short, causing the model to sit on its tailfin. Additionally, the kit had air-to-air missile hardpoints on the wings - in reality the MiG-23's missiles were located much closer to the fuselage.
 
 ## The Result
 <img src="mig23 (3).jpg" alt="build" class="center">
