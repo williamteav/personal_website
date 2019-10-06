@@ -2,45 +2,49 @@
 
 <center><img src="CASTLE2.JPG"></center>
 
-Located in Atwater, a small town in California’s Central Valley, Castle Air Museum is home to over seventy historical military aircraft, the majority of which are displayed outdoors. The museum resides in proximity to Castle Airport. During the Cold War, Castle Airport operated as Castle Air Force Base and was home to the 93rd Bombardment Wing of Strategic Air Command. 
+Castle Air Museum is located in Atwater, a small town in Central California. The museum resides near Castle Airport, which operated as Castle Air Force Base during the Cold War and was home to the 93rd Bombardment Wing of Strategic Air Command. The museum's collection numbers over seventy historical military aircraft, the majority of which are displayed outdoors.   
 
-### Aircraft on Display
+I visited the museum during their Fall 2019 Open Cockpit Day, when several aircraft are open for visitors to explore.  
+
+--- 
+
+## The Collection (most of it)
 
 <center><img src="AT6.JPG"></center>
 
-Months before the attack on Pearl Harbor, the Army Air Corps established Merced Army Air Field (later Castle Air Force Base) to train pilots. A popular training aircraft of the time was the **North American AT-6 Texan**. This particular aircraft was operated by the Royal Canadian Air Force prior to its acquisition by the museum.  
+Castle Air Force Base was established in 1941 as the Army Air Corps Basic Flying School. Pilots would learn to fly through a series of training aircraft, one of which was the **North American T-6 Texan**. This particular aircraft was operated by the Royal Canadian Air Force prior to its acquisition by the museum.  
 
 <center><img src="BT13.JPG"></center>
 
-The **Vultee BT-13 Valiant** was an intermediate trainer for pilots during World War II.  
+The **Vultee BT-13 Valiant** was an intermediate trainer for pilots during World War II. Pilots would fly the Valiant before progressing to the Texan.   
 
 <center><img src="B18.JPG"></center>
 
-Outdated at the beginning of World War II, the Douglas B-18 Bolo medium bomber was relegated to transport and anti-submarine duties. The aircraft on display is a B-18B with a lengthy postwar career as a crop sprayer, cargo transport, and fire tanker. 
+A prewar development of the DC-2 airliner, the **Douglas B-18 Bolo** was obsolete by the time World War II broke out. The aircraft on display is a B-18B, meaning it has been modified for anti-submarine patrols. Postwar, this Bolo served as a crop sprayer, cargo transport, and fire tanker.
 
 <center><img src="B23.JPG"></center>
 
-Designed by Douglas as a successor to its B-18, the B-23 Dragon was never used in combat, passed over in favor of more advanced medium bombers. This B-23 was used during wartime to train maintenance crews. Following the war, it was an executive transport for several companies. 
+Designed as a successor to its B-18, the **Douglas B-23 Dragon** never saw combat during World War II, having been passed over in favor of more advanced medium bombers. Several Dragons, such this one, were converted to UC-67 executive transports. 
 
 <center><img src="C45.JPG"></center>
 
-A military variant of the Beechcraft Model 18, the C-45 Expeditor served as a light transport. The C-45G on display was stationed in Italy before transitioning to the Environmental Protection Agency and the Department of Agriculture.
+The **C-45 Expeditor** is a military variant of the Beechcraft Model 18. Expeditors were used to train aircrew, conduct reconnaissance, and transport light cargo. 
 
 <center><img src="B25.JPG"></center>
 
-Throughout World War II, the North American B-25 Mitchell could be adapted for a variety of missions ranging from conventional bombing to anti-shipping patrols. Its claim to fame occurred in April 1942 when several B-25s took off from the aircraft carrier USS Hornet to bomb Tokyo. The museum’s aircraft is a B-25J, the most numerous variant of the Mitchell. After the war, this B-25 was converted to an air tanker and later served as a testbed for Texas Instruments. 
+Throughout World War II, the versatile **North American B-25 Mitchell** proved capable of a variety of missions ranging from ground attack to anti-shipping. The museum’s aircraft is a B-25J, the final and most numerous version of the Mitchell. 
 
 <center><img src="A26.JPG"></center>
 
-A speedy ground-attack bomber, the Douglas A-26 Invader saw action in World War II, Korea, and Vietnam. The museum’s A-26B was delivered to the Salvadoran Air Force during the late 1970s. 
+A speedy ground-attack bomber, the **Douglas A-26 Invader** saw action in World War II, Korea, and Vietnam. The museum’s A-26 served in the Salvadoran Air Force from 1969 to 1974. 
 
 <center><img src="B17.JPG"></center>
 
-Nicknamed the “Flying Fortress” due to its defensive armament and ability to take damage, the Boeing B-17 rose to fame through its daylight bombing missions against Nazi Germany. Several B-17s, such as this B-17G, saw postwar service as fire tankers.  
+The **Boeing B-17 Flying Fortress** earned its nickname from its extensive defensive armament and ability to sustain damage. The Flying Fortress on display is a B-17G, which incorporated the iconic Bendix chin turret.   
 
 <center><img src="B24.JPG"></center>
 
-The most-produced heavy bomber in history, the Consolidated B-24 Liberator flew alongside B-17s over Europe. The Liberator’s superior range, however, allowed it to supplant the Flying Fortress in the Pacific Theater. Records indicate that this B-24M flew as a transport in Bolivia from 1951 to 1973.   
+The most-produced heavy bomber in history, the **Consolidated B-24 Liberator** flew alongside B-17s over Europe. The B-24's superior range allowed it to supplant B-17s in the Atlantic and Pacific Theaters.    
 
 <center><img src="B29.JPG"></center>
 
