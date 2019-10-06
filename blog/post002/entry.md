@@ -1,6 +1,5 @@
 # Castle Air Museum
 
-<center><img src="CASTLE1.JPG"></center>
 <center><img src="CASTLE2.JPG"></center>
 
 Located in Atwater, a small town in California’s Central Valley, Castle Air Museum is home to over seventy historical military aircraft, the majority of which are displayed outdoors. The museum resides in proximity to Castle Airport. During the Cold War, Castle Airport operated as Castle Air Force Base and was home to the 93rd Bombardment Wing of Strategic Air Command. 
@@ -9,11 +8,11 @@ Located in Atwater, a small town in California’s Central Valley, Castle Air Mu
 
 <center><img src="AT6.JPG"></center>
 
-Months before the attack on Pearl Harbor, the Army Air Corps established Merced Army Air Field (later Castle Air Force Base) to train pilots. A popular training aircraft of the time was the North American AT-6 Texan. This particular aircraft was operated by the Royal Canadian Air Force prior to its acquisition by the museum.  
+Months before the attack on Pearl Harbor, the Army Air Corps established Merced Army Air Field (later Castle Air Force Base) to train pilots. A popular training aircraft of the time was the **North American AT-6 Texan**. This particular aircraft was operated by the Royal Canadian Air Force prior to its acquisition by the museum.  
 
 <center><img src="BT13.JPG"></center>
 
-The Vultee BT-13 Valiant was an intermediate trainer for pilots during World War II.  
+The **Vultee BT-13 Valiant** was an intermediate trainer for pilots during World War II.  
 
 <center><img src="B18.JPG"></center>
 
