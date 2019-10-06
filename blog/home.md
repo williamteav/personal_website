@@ -1,5 +1,7 @@
 ## Blog
 
+<center><img src="CASTLE1.JPG"></center>
+
 Welcome to my personal blog!
 
 ## Posts
