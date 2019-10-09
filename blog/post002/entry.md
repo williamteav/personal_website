@@ -2,9 +2,9 @@
 
 <center><img src="CASTLE2.JPG"></center>
 
-Castle Air Museum is located in Atwater, a small town in Central California. The museum resides near Castle Airport, which operated as Castle Air Force Base during the Cold War and was home to the 93rd Bombardment Wing of Strategic Air Command. The museum's collection numbers over seventy historical military aircraft, the majority of which are displayed outdoors.   
+Castle Air Museum is located in Atwater, a small town in Central California. The museum resides near Castle Airport, which operated as Castle Air Force Base during the Cold War and was home to the 93rd Bombardment Wing of Strategic Air Command. Its collection numbers over seventy historical military aircraft, the majority of which are displayed outdoors.   
 
-I visited the museum during their Fall 2019 Open Cockpit Day, when several aircraft are open for visitors to explore.  
+I visited the museum during their Fall 2019 Open Cockpit Day, when several aircraft are opened for visitors to explore.  
 
 --- 
 
@@ -20,11 +20,11 @@ The **Vultee BT-13 Valiant** was an intermediate trainer for pilots during World
 
 <center><img src="B18.JPG"></center>
 
-A prewar development of the DC-2 airliner, the **Douglas B-18 Bolo** was obsolete by the time World War II broke out. The aircraft on display is a B-18B, meaning it has been modified for anti-submarine patrols. Postwar, this Bolo served as a crop sprayer, cargo transport, and fire tanker.
+A prewar development of the DC-2 airliner, the **Douglas B-18 Bolo** medium bomber was obsolete by the time World War II broke out. Nevertheless the Bolo contributed to the sinking of several German submarines off the Atlantic coast. The B-18B on display was modified for anti-submarine patrols and later served as a crop sprayer, cargo transport, and fire tanker.
 
 <center><img src="B23.JPG"></center>
 
-Designed as a successor to its B-18, the **Douglas B-23 Dragon** never saw combat during World War II, having been passed over in favor of more advanced medium bombers. Several Dragons, such this one, were converted to UC-67 executive transports. 
+Designed as a successor to the B-18, the **Douglas B-23 Dragon** never saw combat during World War II, having been passed over in favor of more advanced medium bombers. Several Dragons, such this one, were converted to UC-67 executive transports. 
 
 <center><img src="C45.JPG"></center>
 
@@ -44,11 +44,11 @@ The **Boeing B-17 Flying Fortress** earned its nickname from its extensive defen
 
 <center><img src="B24.JPG"></center>
 
-The most-produced heavy bomber in history, the **Consolidated B-24 Liberator** flew alongside B-17s over Europe. The B-24's superior range allowed it to supplant B-17s in the Atlantic and Pacific Theaters.    
+The most-produced heavy bomber in history, the **Consolidated B-24 Liberator** flew alongside B-17s over Europe. The B-24's superior range allowed it to supplant the Flying Fortress in the Atlantic and Pacific Theaters.    
 
 <center><img src="B29.JPG"></center>
 
-Featuring a pressurized cabin and computer-controlled gun turrets, the technologically advanced Boeing B-29 Superfortress provided the means for a sustained bombing campaign against the Japanese home islands. This B-29 is a composite of three separate aircraft and is also reputed to be haunted.  
+The **Boeing B-29 Superfortress**, featuring a pressurized cabin and computer-controlled gun turrets, was a state-of-the-art aircraft when it first flew in 1942. B-29s carried out bombing missions during World War II and Korea. This Superfortress is a composite of three separate aircraft and is rumored to be haunted by unidentified spirits.   
 
 <center><img src="C46.JPG"></center>
 
