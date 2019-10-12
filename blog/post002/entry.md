@@ -40,7 +40,7 @@ A speedy ground-attack bomber, the **Douglas A-26 Invader** saw action in World 
 
 <center><img src="B17.JPG"></center>
 
-The **Boeing B-17 Flying Fortress** earned its nickname from its extensive defensive armament and ability to sustain damage. The Flying Fortress on display is a B-17G, which incorporated the iconic Bendix chin turret.   
+The **Boeing B-17 Flying Fortress** earned its nickname from its extensive defensive armament and ability to sustain damage. B-17s were an integral component of the daylight air campaign against Nazi Germany. The Flying Fortress on display is a B-17G, which incorporated the iconic Bendix chin turret.    
 
 <center><img src="B24.JPG"></center>
 
