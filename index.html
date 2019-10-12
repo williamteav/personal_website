@@ -1,60 +1,120 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-  <style>
-  .bg-1 {background-color: silver; color: white;}
-  .bg-3 {background-color: navy; color: white;}
-  .bg-4 {background-color: orange; color: white;}
-  .container-fluid {padding-top: 10px; padding-bottom: 30px;}
-  </style>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+{box-sizing: border-box;}
+body {font-family: Arial;}
+
+header {
+  background-color: #385C78;
+  padding: 30px;
+  text-align: center;
+  font-size: 20px;
+  color: white;}
+
+section {
+  display: -webkit-flex;
+  display: flex;}
+
+nav1 {
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  background: #BD241A;
+  padding: 30px;
+  color: white;}
+
+nav2 {
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  background: #8CDDE4;
+  padding: 30px;
+}
+
+/* Style the list inside the menu */
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+/* Style the content */
+article {
+  -webkit-flex: 3;
+  -ms-flex: 3;
+  flex: 3;
+  background-color: #f1f1f1;
+  padding: 10px;
+}
+
+/* Style the footer */
+footer {
+  background-color: #777;
+  padding: 10px;
+  text-align: center;
+  color: white;
+}
+
+media (max-width: 600px) {
+  section {
+    -webkit-flex-direction: column;
+    flex-direction: column;
+  }
+}
+</style>
 </head>
 <body>
-<FONT FACE="trebuchet ms">
 
-<div class="container-fluid bg-1 text-center">
-  <img src="/personal_website/IMG_9027.JPG" alt="P47" width="50%" height="50%" class="center">
-</div>
+<header>
+  <img src="/personal_website/IMG_9027.JPG" alt="sandy" width="50%" height="50%" class="center">
+</header>
+
+<section>
   
-<div class="container-fluid bg-3 text-center">
-  <h3> Model Aircraft </h3>
-  <div class="container-fluid bg-3 text-center"> 
-    <div class="row">
-      <div class="col-sm-4">
-        <img src="/personal_website/IMG_1123.JPG" alt="Image" width="70%" height="70%" style="transform:rotate(90deg)">
-      </div>
-      <div class="col-sm-4">
-        <img src="/personal_website/IMG_2483.JPG" alt="Image" width="70%" height="70%">
-      </div>
-      <div class="col-sm-4"> 
-        <img src="/personal_website/IMG_7427.JPG" alt="Image" width="70%" height="70%" style="transform:rotate(90deg)">
-      </div> 
-    </div> 
-  </div>
-  <h4>I've started to document the
-<a href="https://williamteav.github.io/personal_website/model_airplanes.html">model aircraft</a> built thus far.</h4>
-</div>
+  <nav1>
+    <ul>
+        <h3> YouTube Content </h3>
+        <img src="/personal_website/P-47.JPG" alt="P-47" width="50%" height="50%" class="center">
+        <h4> <a href="https://www.youtube.com/watch?v=70H43So4et4" style="color:#FFF" >2017 Planes of Fame Airshow</a></h4>
+        <h4> <a href="https://www.youtube.com/watch?v=xo8cx5cw40A" style="color:#FFF" >2019 California International Airshow</a></h4>
+    </ul>
+  </nav1> 
 
-<div class="container-fluid bg-4 text-center">
+  <article>
     <h3> Personal Blog </h3>
   <h4>Here's the link to my
     <a href="https://williamteav.github.io/personal_website/blog/home.html">blog</a>.
   </h4>
-</div>
+  </article>
 
-<div class="container-fluid bg-1 text-center">
-  <h3> Airshow Videos </h3>
-  <img src="/personal_website/P-47.JPG" alt="name in sand" width="50%" height="50%" class="center">
-  <h4> Nothing beats a good afternoon watching planes fly. 
-  <h4> <a href="https://www.youtube.com/watch?v=xo8cx5cw40A">2019 California International Airshow</a></h4>
-  <h4> <a href="https://www.youtube.com/watch?v=70H43So4et4">2017 Planes of Fame Airshow</a></h4>
-</div>
+</section>
+
+<section>
   
-</body>
+  <nav2>
+    <ul>
+        <h3> Social Media </h3>
+        <h4> <a href="https://www.youtube.com/watch?v=70H43So4et4">Facebook</a></h4>
+        <h4> <a href="https://www.youtube.com/watch?v=xo8cx5cw40A">Instagram</a></h4>
+        <h4> <a href="https://www.youtube.com/watch?v=xo8cx5cw40A">LinkedIn</a></h4>
+    </ul>
+  </nav2> 
+
+  <article>
+    <h3> Model Aircraft </h3>
+    <div class="row">
+        <img src="/personal_website/IMG_1123.JPG" alt="Image" width="70%" height="70%">
+        <img src="/personal_website/IMG_2483.JPG" alt="Image" width="70%" height="70%">
+        <img src="/personal_website/IMG_7427.JPG" alt="Image" width="70%" height="70%">
+    <h4>I've started to document the
+        <a href="https://williamteav.github.io/personal_website/model_airplanes.html">
+         model aircraft</a> built thus far.</h4> </div> 
+  </article>
+
+  
+</section>
+
+
 </html>
-
-
