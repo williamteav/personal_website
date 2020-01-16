@@ -8,7 +8,7 @@ Developed from the Northrop BT, the Douglas SBD Dauntless became the U.S. Navy's
 <p align="center"><img src="sbd_02.JPG" alt="image" width="100%" height="100%" class="center"></p>
 
 ## The Kit
-The 1/48 scale model kit is manufactured by Revell. Its low part count and simple assembly makes it an ideal kit for beginners.  
+The 1/48 scale model kit is manufactured by Revell. Its low part count and simple assembly makes it an ideal kit for beginners. The aircraft's dive flaps can also be extended.  
 
 ## The Build
 <p align="center"><img src="sbd_03.JPG" alt="image" width="100%" height="100%" class="center"></p>
