@@ -7,7 +7,7 @@ In addition to visiting aviation museums and attending airshows, I also like to 
 ## Assembled Aircraft
 
 * [Dassault Mirage III](https://williamteav.github.io/personal_website/model_airplanes/mirageiii.html)
-* Douglas SBD-3 Dauntless
+* [Douglas SBD-3 Dauntless](https://williamteav.github.io/personal_website/model_airplanes/sbd.html)
 * Hawker Sea Hawk FGA.6
 * Ilyushin Il-28
 * [Kawanishi N1K2-J Shiden-Kai](https://williamteav.github.io/personal_website/model_airplanes/n1k2.html)
