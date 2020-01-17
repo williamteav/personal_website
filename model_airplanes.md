@@ -22,7 +22,7 @@ In addition to visiting aviation museums and attending airshows, I also like to 
 * [Mikoyan-Gurevich MiG-23](https://williamteav.github.io/personal_website/model_airplanes/mig23.html)
 * Mikoyan-Gurevich MiG-25
 * Nakajima B5N2
-* Nakajima Ki-43-II Hayabusa
+* [Nakajima Ki-43-II Hayabusa] (https://williamteav.github.io/personal_website/model_airplanes/ki43.html)
 * North American F-86F-30 Sabre 
 * [Sukhoi Su-47 Berkut](https://williamteav.github.io/personal_website/model_airplanes/su47.html)
 * Supermarine Spitfire Mk 1
