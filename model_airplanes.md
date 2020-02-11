@@ -6,8 +6,10 @@ In addition to visiting aviation museums and attending airshows, I also like to 
 
 ## Assembled Aircraft
 
+* Curtiss P-40B Warhawk 
 * [Dassault Mirage III](https://williamteav.github.io/personal_website/model_airplanes/mirageiii.html)
 * [Douglas SBD-3 Dauntless](https://williamteav.github.io/personal_website/model_airplanes/sbd.html)
+* [Grumman A-6A Intruder](https://williamteav.github.io/personal_website/model_airplanes/a6.html)
 * Hawker Sea Hawk FGA.6
 * Ilyushin Il-28
 * [Kawanishi N1K2-J Shiden-Kai](https://williamteav.github.io/personal_website/model_airplanes/n1k2.html)
