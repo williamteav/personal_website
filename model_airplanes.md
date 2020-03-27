@@ -11,7 +11,7 @@ In addition to visiting aviation museums and attending airshows, I also like to 
 * [Douglas SBD-3 Dauntless](https://williamteav.github.io/personal_website/model_airplanes/sbd.html)
 * [Grumman A-6A Intruder](https://williamteav.github.io/personal_website/model_airplanes/a6.html)
 * Hawker Sea Hawk FGA.6
-* Ilyushin Il-28
+* [Ilyushin Il-28](https://williamteav.github.io/personal_website/model_airplanes/il28.html)
 * [Kawanishi N1K2-J Shiden-Kai](https://williamteav.github.io/personal_website/model_airplanes/n1k2.html)
 * Kawasaki Ki-61 Hien 
 * Lavochkin La-5
@@ -23,6 +23,7 @@ In addition to visiting aviation museums and attending airshows, I also like to 
 * Mikoyan-Gurevich MiG-21
 * [Mikoyan-Gurevich MiG-23](https://williamteav.github.io/personal_website/model_airplanes/mig23.html)
 * Mikoyan-Gurevich MiG-25
+* Mitsubishi A6M2 Zero
 * Nakajima B5N2
 * [Nakajima Ki-43-II Hayabusa](https://williamteav.github.io/personal_website/model_airplanes/ki43.html)
 * North American F-86F-30 Sabre 
