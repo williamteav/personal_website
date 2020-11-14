@@ -2,7 +2,9 @@
 
 ![F-15](IMG_1360.JPG) 
 
-In addition to visiting aviation museums and attending airshows, I also like to put together model aircraft. 
+My first encounter with a model aircraft occured back in seventh grade when I ventured into the middle school library. Perched near the center of the building was a large scale model of a dark blue propeller aircraft. I could tell from the inverted gull wing and US Navy roundels that the model was that of an F4U Corsair.  
+
+
 
 ## Assembled Aircraft
 
@@ -27,5 +29,7 @@ In addition to visiting aviation museums and attending airshows, I also like to 
 * Nakajima B5N2
 * [Nakajima Ki-43-II Hayabusa](https://williamteav.github.io/personal_website/model_airplanes/ki43.html)
 * North American F-86F-30 Sabre 
+* [North American P-51D Mustang]
+(https://williamteav.github.io/personal_website/model_airplanes/p51.html)
 * [Sukhoi Su-47 Berkut](https://williamteav.github.io/personal_website/model_airplanes/su47.html)
 * Supermarine Spitfire Mk 1
