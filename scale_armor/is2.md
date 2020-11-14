@@ -66,6 +66,6 @@ The decal sheet is for an IS-2 serving with the 7th Independent Guards Heavy Tan
 
 <p align="center"><img src="is2/19.JPG" alt="img" width="100%" height="100%" class="center"></p>
 
-<p align="center"><img src="is2/20.JPG" alt="img" width="100%" height="100%" class="center"></p>
+<p align="center"><img src="is2/20.JPG" alt="img" width="50%" height="50%" class="center"></p>
 
 Overall, I enjoyed building the IS-2. There was nothing too complex and I think it would make a great kit for anyone looking to get started on modeling scale armor. I would definitely consider constructing another Zvezda tank kit. 
