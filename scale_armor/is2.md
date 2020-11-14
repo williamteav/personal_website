@@ -4,7 +4,7 @@
 
 ## The Tank
 
-When the Germans launched Operation Barbarossa in June 1941, the main operational Soviet heavy tanks were the KV-1 series. The KV-1s, while well-armored, retained the same armament as the T-34 medium tank and were substantially less mobile. As German tanks increased their armor and firepower, the need for a successor to the KV-1 became clear. Various upgrade measures were unsuccessful and Soviet designers set forth on creating a new vehicle.
+When the Germans launched Operation Barbarossa in June 1941, the primary operational Soviet heavy tanks were the KV-1 series. The KV-1s, while well-armored, retained the same armament as the T-34 medium tank and were substantially less mobile. As German tanks increased their armor and firepower, the need for a successor to the KV-1 became clear. Various upgrade measures were unsuccessful and Soviet designers set forth on creating a new vehicle.
  
 These efforts eventually led to the IS-2, which entered service in the spring of 1944. The IS-2 served as a breakthrough tank against German defensive fortifications. However, its 122mm cannon and thick frontal armor also allowed the tank to successfully engage Panther and Tiger tanks. Compared to its Axis counterparts, the IS-2 was cramped, carried fewer rounds, and was slower to reload. Nevertheless, the IS-2 contributed to Soviet offenses across the Eastern Front and was notably present at the Battle of Berlin.
 
@@ -16,7 +16,7 @@ The IS-2 was developed into the ISU-152 tank destroyer and ISU-122 assault gun. 
 
 <p align="center"><img src="is2/3.JPG" alt="img" width="100%" height="100%" class="center"></p>
 
-The kit is in 1/72 scale and manufactured by Zvezda. This is both my first scale armor kit and my first kit from Zvezda. The tank represented by this kit is an IS-2 model 1944, which introduced a uniformly sloped front hull. Earlier IS-2s featured a section of frontal armor which steepened and created a vulnerability against incoming projectiles. An anti-aircraft machine gun was also added to the commander’s cupola. 
+The kit is in 1/72 scale and manufactured by Zvezda. This is both my first scale armor kit and my first kit from Zvezda. The tank represented by this kit is an IS-2 model 1944, which introduced a uniformly sloped front hull. Earlier IS-2s featured a section of frontal armor which steepened and created a vulnerability against incoming projectiles. An anti-aircraft machine gun was also added to the commanderâ€™s cupola. 
 
 This model is intended to be a snap kit, meaning that no glue should be required. Indeed, many of the pieces could simply be press-fitted and a few even required significant exertion. Some of the smaller parts tended to wobble in place and required gluing. I would highly recommend a fine pair of tweezers and quality cutters. A hobby knife might work but would likely damage the tinier parts. 
 
