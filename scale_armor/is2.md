@@ -1,6 +1,6 @@
 # IS-2 model 1944 (completed November 2020)
 
-<p align="center"><img src="is2/1.JPG" alt="img" width="100%" height="100%" class="center"></p>
+<p align="center"><img src="is2/1.JPG" alt="img" width="50%" height="50%" class="center"></p>
 
 ## The Tank
 
