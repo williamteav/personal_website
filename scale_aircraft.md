@@ -1,10 +1,8 @@
-## Model Airplanes
+## Scale Aircraft
 
 ![F-15](IMG_1360.JPG) 
 
-My first encounter with a model aircraft occured back in seventh grade when I ventured into the middle school library. Perched near the center of the building was a large scale model of a dark blue propeller aircraft. I could tell from the inverted gull wing and US Navy roundels that the model was that of an F4U Corsair.  
-
-
+My interest in historic aircraft took flight during my childhood when I came across a TV show named Dogfights on the History Channel. The narrator's apt description of the strengths and shortcomings of a particular model spurred me to learn more. I soon stumbled upon the world of scale modeling. It was definitely a step above my LEGO sets and the idea of purchasing an "unfinished" product seemed offputting at first. While I was tempted to just purchase a prepainted, assembled die-cast model, a part of me wanted to give the hobby a try. One model kit from the local hobby store later and the rest is history. 
 
 ## Assembled Aircraft
 
@@ -12,7 +10,7 @@ My first encounter with a model aircraft occured back in seventh grade when I ve
 * [Dassault Mirage III](https://williamteav.github.io/personal_website/scale_aircraft/mirageiii.html)
 * [Douglas SBD-3 Dauntless](https://williamteav.github.io/personal_website/scale_aircraft/sbd.html)
 * [Grumman A-6A Intruder](https://williamteav.github.io/personal_website/scale_aircraft/a6.html)
-* Hawker Sea Hawk FGA.6
+* [Hawker Sea Hawk FGA.6](https://williamteav.github.io/personal_website/scale_aircraft/seahawk.html)
 * [Ilyushin Il-28](https://williamteav.github.io/personal_website/scale_aircraft/il28.html)
 * [Kawanishi N1K2-J Shiden-Kai](https://williamteav.github.io/personal_website/scale_aircraft/n1k2.html)
 * Kawasaki Ki-61 Hien 
