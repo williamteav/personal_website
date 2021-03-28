@@ -21,15 +21,25 @@ I currently display my tags in a binder. I place my tags into four-pocket, 3.5" 
 ## List of Tag Vendors
 
 > [Aerotiques](https://www.aerotiques.co.uk)
+
 > [Art and Wings](https://www.artandwings.com)
-> [Aviationtag](https://www.aviationtag.com)  
-> [Avro Designs](https://www.avrodesigns.co.uk)  
-> [Flight Inspiration](https://www.flightinspiration.com)  
+
+> [Aviationtag](https://www.aviationtag.com)
+
+> [Avro Designs](https://www.avrodesigns.co.uk)
+
+> [Flight Inspiration](https://www.flightinspiration.com)
+
 > [Icarus Originals](https://icarusoriginals.com/product-category/all-products/tags/)
-> [Jet Eyes](https://www.jet-eyes.com)  
+
+> [Jet Eyes](https://www.jet-eyes.com)
+
 > [PlaneTags](https://planetags.com)
+
 > [Relic Design & Craft](https://www.relicdesignco.com)
+
 > [SkyArt](https://www.skyart.com)
+
 > [Tailfins](https://tailfins.co.uk/)
 
 Note that many of the above retailers offer more than just fuselage tags.
