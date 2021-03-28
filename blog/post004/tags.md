@@ -18,11 +18,18 @@ I personally have purchased a few tags for myself. I tend to gravitate towards h
 
 I currently display my tags in a binder. I place my tags into four-pocket, 3.5" x 5" photo protectors. The tags slide in easily and are kept safe and organized. 
 
-## List of Tag Vendors 
+## List of Tag Vendors
 
-https://www.aviationtag.com  
-https://www.jet-eyes.com  
-https://flightinspiration.com  
-https://planetags.com 
-https://www.skyart.com   
-https://www.relicdesignco.com/ 
+> [Aerotiques](https://www.aerotiques.co.uk)
+> [Art and Wings](https://www.artandwings.com)
+> [Aviationtag](https://www.aviationtag.com)  
+> [Avro Designs](https://www.avrodesigns.co.uk)  
+> [Flight Inspiration](https://www.flightinspiration.com)  
+> [Icarus Originals](https://icarusoriginals.com/product-category/all-products/tags/)
+> [Jet Eyes](https://www.jet-eyes.com)  
+> [PlaneTags](https://planetags.com)
+> [Relic Design & Craft](https://www.relicdesignco.com)
+> [SkyArt](https://www.skyart.com)
+> [Tailfins](https://tailfins.co.uk/)
+
+Note that many of the above retailers offer more than just fuselage tags.

@@ -2,11 +2,11 @@
 
 ![F-15](IMG_1360.JPG) 
 
-My interest in historic aircraft took flight during my childhood when I came across a TV show named Dogfights on the History Channel. The narrator's apt description of the strengths and shortcomings of a particular model spurred me to learn more. I soon stumbled upon the world of scale modeling. It was definitely a step above my LEGO sets and the idea of purchasing an "unfinished" product seemed offputting at first. While I was tempted to just purchase a prepainted, assembled die-cast model, a part of me wanted to give the hobby a try. One model kit from the local hobby store later and the rest is history. 
+My interest in historic aircraft took flight during my childhood when I came across a TV show named Dogfights on the History Channel. The narrator's apt description of the strengths and shortcomings of a particular model spurred me to learn more. I soon stumbled upon the world of scale modeling. It was definitely a step above my LEGO sets and the idea of purchasing an "unfinished" product seemed daunting at first. While I was tempted to just purchase a prepainted, assembled die-cast model, a part of me wanted to give the hobby a try. One model kit from the local hobby store later and the rest is history. 
 
 ## Assembled Aircraft
 
-* Curtiss P-40B Warhawk 
+* [Curtiss P-40B Warhawk](https://williamteav.github.io/personal_website/scale_aircraft/p40.html) 
 * [Dassault Mirage III](https://williamteav.github.io/personal_website/scale_aircraft/mirageiii.html)
 * [Douglas SBD-3 Dauntless](https://williamteav.github.io/personal_website/scale_aircraft/sbd.html)
 * [Grumman A-6A Intruder](https://williamteav.github.io/personal_website/scale_aircraft/a6.html)
@@ -23,7 +23,7 @@ My interest in historic aircraft took flight during my childhood when I came acr
 * Mikoyan-Gurevich MiG-21
 * [Mikoyan-Gurevich MiG-23](https://williamteav.github.io/personal_website/scale_aircraft/mig23.html)
 * Mikoyan-Gurevich MiG-25
-* Mitsubishi A6M2 Zero
+* [Mitsubishi A6M2 Zero](https://williamteav.github.io/personal_website/scale_aircraft/a6m.html)
 * Nakajima B5N2
 * [Nakajima Ki-43-II Hayabusa](https://williamteav.github.io/personal_website/scale_aircraft/ki43.html)
 * North American F-86F-30 Sabre 
