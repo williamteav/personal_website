@@ -17,16 +17,16 @@ My interest in historic aircraft took flight during my childhood when I came acr
 * Lavochkin La-5
 * [McDonnell Douglas F-4E Phantom II](https://williamteav.github.io/personal_website/scale_aircraft/f4.html) 
 * [McDonnell Douglas F-15A Eagle](https://williamteav.github.io/personal_website/scale_aircraft/f15.html)
-* Messerchmitt Bf 109 E-3
+* [Messerchmitt Bf 109 E-3](https://williamteav.github.io/personal_website/scale_aircraft/bf109.html)
 * [Mikoyan-Gurevich MiG-15bis](https://williamteav.github.io/personal_website/scale_aircraft/mig15.html)
 * Mikoyan-Gurevich MiG-19
 * Mikoyan-Gurevich MiG-21
 * [Mikoyan-Gurevich MiG-23](https://williamteav.github.io/personal_website/scale_aircraft/mig23.html)
-* Mikoyan-Gurevich MiG-25
+* [Mikoyan-Gurevich MiG-25](https://williamteav.github.io/personal_website/scale_aircraft/mig25.html)
 * [Mitsubishi A6M2 Zero](https://williamteav.github.io/personal_website/scale_aircraft/a6m.html)
-* Nakajima B5N2
+* [Nakajima B5N2](https://williamteav.github.io/personal_website/scale_aircraft/b5n.html)
 * [Nakajima Ki-43-II Hayabusa](https://williamteav.github.io/personal_website/scale_aircraft/ki43.html)
 * North American F-86F-30 Sabre 
 * [North American P-51D Mustang](https://williamteav.github.io/personal_website/scale_aircraft/p51.html)
 * [Sukhoi Su-47 Berkut](https://williamteav.github.io/personal_website/scale_aircraft/su47.html)
-* Supermarine Spitfire Mk 1
+* [Supermarine Spitfire Mk 1](https://williamteav.github.io/personal_website/scale_aircraft/spitfire.html)

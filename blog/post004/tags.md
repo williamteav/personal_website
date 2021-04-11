@@ -2,7 +2,7 @@
 
 <center><img src="tag_1.jpeg" width="100%" height="100%" class="center"></center>
 
-What happens when aircraft reach retirement? Some find their way to museums. Others might linger on for years in a desert boneyard. But most end up being scrapped. For a select few, however, there is new life in the form of fuselage tags. 
+What happens when aircraft reach retirement? Some find their way to museums. Some find their way to museums while others might linger on for years in a desert boneyard before being scrapped. For a select few, however, there is new life in the form of fuselage tags. 
 
 <center><img src="tag_2.jpeg" width="100%" height="100%" class="center"></center>
 
@@ -14,32 +14,22 @@ Fuselage tags exist from a wide variety of aircraft, ranging from WWII fighters 
 
 <center><img src="tag_4.jpeg" width="70%" height="70%" class="center"></center>
 
-I personally have purchased a few tags for myself. I tend to gravitate towards historic aircraft and there is a plentiful selection of those tags to come around. I made my first purchase in August 2020 with PlaneTags. Based in Southern California, they are perhaps the largest producer of fuselage tags in the Western Hemisphere and carry a wide inventory. In the months since, I have also purchased from vendors in the United Kingdom and Poland. 
+I personally have purchased a few tags for myself. I tend to gravitate towards military aircraft and there is a smaller selection of those tags to come around. I made my first purchase in August 2020 with PlaneTags. Based in Southern California, they are perhaps the largest producer of fuselage tags in the Western Hemisphere and carry a wide inventory. In the months since, I have also purchased from vendors in the United Kingdom and Poland. 
 
 I currently display my tags in a binder. I place my tags into four-pocket, 3.5" x 5" photo protectors. The tags slide in easily and are kept safe and organized. 
 
-## List of Tag Vendors
+## List of Tag Vendors (this will be updated as new vendors emerge)
 
-> [Aerotiques](https://www.aerotiques.co.uk)
-
-> [Art and Wings](https://www.artandwings.com)
-
-> [Aviationtag](https://www.aviationtag.com)
-
-> [Avro Designs](https://www.avrodesigns.co.uk)
-
-> [Flight Inspiration](https://www.flightinspiration.com)
-
+> [Aerotiques](https://www.aerotiques.co.uk) 
+> [Art and Wings](https://www.artandwings.com) 
+> [Aviationtag](https://www.aviationtag.com)  
+> [Avro Designs](https://www.avrodesigns.co.uk)  
+> [Flight Inspiration](https://flightinspiration.com)  
 > [Icarus Originals](https://icarusoriginals.com/product-category/all-products/tags/)
-
-> [Jet Eyes](https://www.jet-eyes.com)
-
-> [PlaneTags](https://planetags.com)
-
-> [Relic Design & Craft](https://www.relicdesignco.com)
-
+> [Jet Eyes](https://www.jet-eyes.com)  
+> [PlaneTags](https://planetags.com) 
+> [Relic Design & Craft](https://www.relicdesignco.com) 
 > [SkyArt](https://www.skyart.com)
-
 > [Tailfins](https://tailfins.co.uk/)
 
-Note that many of the above retailers offer more than just fuselage tags.
+Note that many of the above shops sell more than just tags! 

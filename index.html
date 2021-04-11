@@ -1,131 +1,144 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    </head>
 <style>
-{box-sizing: border-box;}
-body {font-family: Arial;}
-nav2 {font-family: Consolas;}
-
-header {
-  background-color: #595959;
-  padding: 15px;
-  text-align: center;
-  font-size: 20px;
-  color: white;}
-
-section {
-  display: -webkit-flex;
-  display: flex;}
-
-nav1 {
-  -webkit-flex: 2;
-  -ms-flex: 2;
-  flex: 2;
-  background: #BD241A;
-  padding: 30px;
-  color: white;}
-
-nav2 {
-  -webkit-flex: 2;
-  -ms-flex: 2;
-  flex: 2;
-  background: #00083C;
-  padding: 30px;
-  color: white;
-}
-
-/* Style the list inside the menu */
-nav ul {
-  list-style-type: none;
-  padding: 0;
-}
-
-/* Style the content */
-article {
-  -webkit-flex: 3;
-  -ms-flex: 3;
-  flex: 3;
-  background-color: #f1f1f1;
-  text-align: center;
-  padding: 10px;
-}
-
-/* Style the footer */
-footer {
-  background-color: #777;
-  padding: 10px;
-  text-align: center;
-  color: white;
-}
-
-media (max-width: 600px) {
-  section {
-    -webkit-flex-direction: column;
-    flex-direction: column;
-  }
-}
-</style>
-</head>
+h3 {text-align: center;}
+.bg-1 {background-color: #ECFBFE;}
+.bg-2 {background-color: #FFBD64;}
+    </style>
 <body>
+    
+<!-- navigation bar -->
 
-<header>
-  <img src="/personal_website/home_banner.png" alt="home banner" class="center">
-  <h5> For best results, please view this website on a desktop browser. </h3>
-</header>
+<nav class="navbar navbar-expand-md bg-dark navbar-dark fixed-top justify-content-end">
+  <ul class="navbar-nav">
+    <li class="nav-item active">
+      <a class="nav-link" href="https://williamteav.github.io/personal_website/about.html">About</a>
+    </li>
+    <li class="nav-item active">
+      <a class="nav-link" href="https://williamteav.github.io/personal_website/blog/home.html">Blog</a>
+    </li>
+    <li class="nav-item active">
+      <a class="nav-link" href="https://williamteav.github.io/personal_website/scale_aircraft.html">Scale Aircraft</a>
+    </li>
+    <li class="nav-item active">
+      <a class="nav-link" href="https://williamteav.github.io/personal_website/scale_armor.html">Scale Armor</a>
+    </li>
+    <li class="nav-item active">
+      <a class="nav-link" href="https://williamteav.github.io/personal_website/book_reviews.html">Book Reviews</a>
+    </li>
+    <li class="nav-item active">
+      <a class="nav-link" href="https://williamteav.github.io/personal_website/contact.html">Contact</a>
+    </li>
+  </ul>
+</nav>
+    
+<!-- banner -->    
+    
+<div class="jumbotron">
+    <h3> This website serves to showcase my interests and hobbies. </h3>
+</div>
 
-<section>
-  
-  <nav1>
-    <ul>
-        <h3> Airshow Videos </h3>
-        <img src="PoF17.gif" alt="PoF17" class="center" width="80%" height="80%">
-        <h4> <a href="https://www.youtube.com/watch?v=70H43So4et4" style="color:#FFF" >2017 Planes of Fame Airshow</a></h4>
-        <img src="PoF18.gif" alt="PoF18" class="center" width="80%" height="80%">
-        <h4> <a href="https://www.youtube.com/watch?v=2Yikh1TRXyY" style="color:#FFF" >2018 Planes of Fame Airshow</a></h4>
-        <img src="CIA19.gif" alt="CIA19" class="center" width="80%" height="80%">
-        <h4> <a href="https://www.youtube.com/watch?v=xo8cx5cw40A" style="color:#FFF" >2019 California International Airshow</a></h4>
-    </ul>
-  </nav1> 
+<!-- most recent blog story goes below -->    
+    
+<div class="container-fluid">
+        <div class="row">
+            <div class="col-md-6">
+                <img src="/personal_website/home/tag.JPG" class="center" class="rounded">
+            </div>
+            <div class="col-md-6 p-1">
+                <h1> Blog Entry: <a href="https://williamteav.github.io/personal_website/blog/post004/tags.html" style="color:#0223FF" >Tagging Along</a> </h1>
+                <h2 class="text-left"> What happens when aircraft reach retirement? Some find their way to museums while others might linger on for years in a desert boneyard before being scrapped. For a select few, however, there is new life in the form of fuselage tags.  </h2>
+            </div>
+        </div>
+</div>
+ 
+<!-- scale aircraft, scale armor, book reviews, tag reviews -->      
 
-  <article>
-    <img src="/personal_website/home_banner_2.png" alt="home banner" class="center">
-    <h3> Check out my <a href="https://williamteav.github.io/personal_website/blog/home.html" style="color:#0223FF" >blog</a> 
-         for recaps and highlights of past excursions. 
-    </h3> 
+<div class="container-fluid p-1">   
+    <div class="row">
+      <div class="col p-1">
+          <img src="/personal_website/home/yanks.JPG" class="center" class="rounded">
+          <h3> 1/72 IS-2 </h3>
+        </div>
+      <div class="col p-1">
+          <img src="/personal_website/home/yanks.JPG" class="center" class="rounded">
+          <h3> 1/72 A-6 Intruder </h3>
+        </div>
+      <div class="col p-1">
+          <img src="/personal_website/home/yanks.JPG" class="center" class="rounded">
+          <h3 class="font-italic"> Cold War Skies </h3>
+        </div>
+      <div class="col p-1">
+          <img src="/personal_website/home/yanks.JPG" class="center" class="rounded">
+          <h3> PlaneTags B-17 </h3>
+        </div>
+    </div>
+</div>     
+    
+<!-- older blog stories -->     
+    
+<div class="container-fluid p-1">
+  <div class="row">
+    <div class="col-md-4">
+        <img src="/personal_website/home/castle.jpg" class="center" class="rounded">
+    </div>
+    <div class="col-md-8 p-1">
+        <h2> Blog Entry: <a href="https://williamteav.github.io/personal_website/blog/post002/entry.html" style="color:#0223FF" >Castle Air Museum</a> </h2>
+        <h3 class="text-left"> The museum resides near Castle Airport, which operated as Castle Air Force Base during the Cold War and was home to the 93rd Bombardment Wing of Strategic Air Command. Its collection numbers over seventy historical military aircraft, the majority of which are displayed outdoors. </h3>
+    </div>
+  </div>
+</div>
+    
+<div class="container-fluid p-1">
+  <div class="row">
+    <div class="col-md-4">
+        <img src="/personal_website/home/yanks.JPG" class="center" class="rounded">
+    </div>
+    <div class="col-md-8 p-1">
+        <h2> Blog Entry: <a href="https://williamteav.github.io/personal_website/blog/post001/entry.html" style="color:#0223FF" >Yanks Air Museum</a> </h2>
+        <h3 class="text-left"> Established in 1973, Yanks Air Museum is one of two museums located on the grounds of Chino Airport and boasts a collection of nearly two hundred aircraft. </h3>
+    </div>
+  </div>
+</div>
+ 
+ <div class="container-fluid p-1">
+  <div class="row">
+    <div class="col-md-4">
+        <img src="/personal_website/home/caf.JPG" class="center" class="rounded">
+    </div>
+    <div class="col-md-8 p-1">
+        <h2> Blog Entry: <a href="https://williamteav.github.io/personal_website/blog/post003/caf.html" style="color:#0223FF" >Commemorative Air Force SoCal Wing</a> </h2>
+        <h3 class="text-left"> The Commemorative Air Force is an organization devoted to restoring, operating, and maintaining historic aircraft. Their inventory of over 100 airworthy warbirds is distributed across a nationwide network of wings. Their Southern California Wing is based in Camarillo, a small town 50 miles east of Los Angeles, on the grounds of Camarillo Airport. </h3>
+    </div>
+  </div>
+</div>   
 
-  </article>
+ <!-- airshow gifs -->      
 
-</section>
-
-<section>
-  
-  <nav2>
-    <ul>
-        <h3> Social Media </h3>
-        <h4> <a href="https://www.facebook.com/IcedTeav">
-             <img border="0" alt="Facebook" src="FB.png" width="30%" height="30%">
-        </a> </h4>
-        <h4> <a href="https://www.linkedin.com/in/williamteav/">
-             <img border="0" alt="LinkedIn" src="LinkedIn.png" width="30%" height="30%">
-        </a> </h4>
-        <h4> <a href="https://www.instagram.com/iced_teav/">
-             <img border="0" alt="Instagram" src="IG.png" width="30%" height="30%">
-        </a> </h4>
-    </ul>
-  </nav2> 
-
-  <article>
-    <img src="/personal_website/home_banner_3.png" alt="home banner" class="center">
-    <h3> Here's some of the <a href="https://williamteav.github.io/personal_website/scale_aircraft.html" style="color:#0223FF" >scale aircraft</a> 
-         I've put together over the years. I've also recently started building 1/72 scale <a href="https://williamteav.github.io/personal_website/scale_armor.html" style="color:#0223FF" 
-         >scale armor</a>.
-    </h3>
-  </article>
-
-  
-</section>
-
-
+<div class="container-fluid p-1">   
+    <div class="row">
+        <div class="col p-1">
+            <img src="PoF17.gif" class="center" width="60%" height="60%">
+            <h4 class="text-center"> <a href="https://www.youtube.com/watch?v=70H43So4et4" style="color:#0223FF" >2017 Planes of Fame</a></h4>
+        </div>
+        <div class="col p-1">
+            <img src="PoF18.gif" class="center" width="60%" height="60%">
+            <h4 class="text-center"> <a href="https://www.youtube.com/watch?v=2Yikh1TRXyY" style="color:#0223FF" >2018 Planes of Fame</a></h4>
+        </div>
+        <div class="col p-1">
+            <img src="CIA19.gif" class="center" width="60%" height="60%">
+            <h4 class="text-center"> <a href="https://www.youtube.com/watch?v=xo8cx5cw40A" style="color:#0223FF" >2019 California International</a></h4>
+        </div>
+    </div>
+</div> 
+    
+</body>
 </html>
