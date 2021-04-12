@@ -27,8 +27,8 @@ I currently display my tags in a binder. I place my tags into four-pocket, 3.5" 
 > [Flight Inspiration](https://flightinspiration.com)  
 > [Icarus Originals](https://icarusoriginals.com/product-category/all-products/tags/)  
 > [Jet Eyes](https://www.jet-eyes.com)  
-> [PlaneTags](https://planetags.com) 
-> [Relic Design & Craft](https://www.relicdesignco.com) 
+> [PlaneTags](https://planetags.com)  
+> [Relic Design & Craft](https://www.relicdesignco.com)  
 > [SkyArt](https://www.skyart.com)  
 > [Tailfins](https://tailfins.co.uk/)  
 
