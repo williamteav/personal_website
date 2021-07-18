@@ -7,4 +7,4 @@ I made my first foray into the world of scale armor when I purchased a 1/72 IS-2
 ## Assembled Armor
 
 * [IS-2 model 1944](https://williamteav.github.io/personal_website/scale_armor/is2.html)
-* [Panzer IV Ausf. H](https://williamteav.github.io/personal_website/scale_armor/panzerivh.html)
+* [Panzer IV Ausf. H](https://williamteav.github.io/personal_website/scale_armor/pzivh.html)
