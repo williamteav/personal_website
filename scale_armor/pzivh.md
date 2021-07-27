@@ -4,7 +4,7 @@
 
 ## The Tank
 
-The Panzer IV was the mainstay of the German armored forces during World War II. A prewar design, the tank remained in production through the entire war and saw service across all fronts. While orignally intended to serve the infantry support role, the Panzer IV was more feasible to upgrade and proved its worth at engaging enemy armor. Its chassis was also verstatile enough that many German self-propelled guns were developed from the Panzer IV. 
+The Panzer IV was the mainstay of the German armored forces during World War II. A prewar design, the tank remained in production throughout the entire war and saw service across all fronts. Orignally intended to serve the infantry support role, the Panzer IV proved its worth at engaging enemy armor and also formed the template for a series of self-propelled guns. 
 
 The Ausf. H variant was introduced in 1943 and featured a 75mm KwK 40 L/48 along with spaced armor to protect against anti-tank rifles. 
 
