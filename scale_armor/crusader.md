@@ -22,12 +22,12 @@ Hasegawa initially released this 1/72 scale kit in 1975.
 
 Putting together the Christie suspension was a simple task. The turret assembly was likewise straightforward and allowed for the builder to traverse and elevate the 6-pounder armament.
 
-<p align="center"><img src="crusader/6.JPG" alt="img" width="50%" height="50%" class="center"></p>
+<p align="center"><img src="crusader/6.jpg" alt="img" width="50%" height="50%" class="center"></p>
 <p align="center"><img src="crusader/7.JPG" alt="img" width="50%" height="50%" class="center"></p>
 
 Earlier Crusaders featured a secondary frontal machine gun turret, which were removed in the Mk III. 
 
-<p align="center"><img src="crusader/10.JPG" alt="img" width="75%" height="75%" class="center"></p>
+<p align="center"><img src="crusader/10.jpg" alt="img" width="75%" height="75%" class="center"></p>
 
 I applied a two-tone camouflage and later weathered it with thinned gray paint and subtle smudging using diluted rubbing alcohol.
 
