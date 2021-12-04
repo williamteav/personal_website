@@ -38,6 +38,6 @@ Despite the kit's age, it offers a decent representation of a Churchill tank.
 
 ## The Result
 
-<p align="center"><img src="churchill/11.JPG" alt="img" width="100%" height="100%" class="center"></p>
+<p align="center"><img src="churchill/11.jpg" alt="img" width="100%" height="100%" class="center"></p>
 
 Overall, this is a basic and quick build for anyone looking to add a Churchill to their model tank collection. 
