@@ -4,7 +4,7 @@
 
 ## Posts
 
-* [April 28, 2021 - A Fortress Find](https://williamteav.github.io/personal_website/blog/post005/b17.html)
+* [April 28, 2021 - PlaneTags B-17 Rerelease](https://williamteav.github.io/personal_website/blog/post005/b17.html)
 * [February 27, 2021 - Tagging Along](https://williamteav.github.io/personal_website/blog/post004/tags.html)
 * [December 21, 2019 - A Look Back: CAF SoCal](https://williamteav.github.io/personal_website/blog/post003/caf.html)
 * [October 11, 2019 - Castle Air Museum](https://williamteav.github.io/personal_website/blog/post002/entry.html)
