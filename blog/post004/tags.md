@@ -2,7 +2,7 @@
 
 <center><img src="tag_1.jpeg" width="100%" height="100%" class="center"></center>
 
-What happens when aircraft reach retirement? Some find their way to museums. Some find their way to museums while others might linger on for years in a desert boneyard before being scrapped. For a select few, however, there is new life in the form of fuselage tags. 
+What happens when aircraft reach retirement? Some find their way to museums while others might linger on for years in a desert boneyard before being scrapped. For a select few, however, there is new life in the form of fuselage tags. 
 
 <center><img src="tag_2.jpeg" width="100%" height="100%" class="center"></center>
 
@@ -18,15 +18,18 @@ I personally have purchased a few tags for myself. I tend to gravitate towards m
 
 I currently display my tags in a binder. I place my tags into four-pocket, 3.5" x 5" photo protectors. The tags slide in easily and are kept safe and organized. 
 
-## List of Tag Vendors (this will be updated as new vendors emerge)
-
+## List of Tag Vendors (last updated December 2021)
+  
 > [Aerotiques](https://www.aerotiques.co.uk)  
-> [Art and Wings](https://www.artandwings.com)  
+> [AusTags](https://austags.com/)  
 > [Aviationtag](https://www.aviationtag.com)  
 > [Avro Designs](https://www.avrodesigns.co.uk)  
+> [doors2manual](https://www.doors2manual.org/)  
 > [Flight Inspiration](https://flightinspiration.com)  
+> [Fuselage Creations](https://partofaplane.com/collections/fuselage-creations)  
 > [Icarus Originals](https://icarusoriginals.com/product-category/all-products/tags/)  
 > [Jet Eyes](https://www.jet-eyes.com)  
+> [Plane Chains](https://www.planechains.ca)  
 > [PlaneTags](https://planetags.com)  
 > [Relic Design & Craft](https://www.relicdesignco.com)  
 > [SkyArt](https://www.skyart.com)  

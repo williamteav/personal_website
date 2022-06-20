@@ -4,6 +4,7 @@
 
 ## Posts
 
+* [June 19, 2022 - A Tale of Two Airshows](https://williamteav.github.io/personal_website/blog/post006/airshowsfall21.html)
 * [April 28, 2021 - PlaneTags B-17 Rerelease](https://williamteav.github.io/personal_website/blog/post005/b17.html)
 * [February 27, 2021 - Tagging Along](https://williamteav.github.io/personal_website/blog/post004/tags.html)
 * [December 21, 2019 - A Look Back: CAF SoCal](https://williamteav.github.io/personal_website/blog/post003/caf.html)
