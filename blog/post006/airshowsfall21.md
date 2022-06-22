@@ -22,15 +22,15 @@ Not to be overshadowed was the Red Bull Air Force, which left the crowd in awe w
 
 ## Pacific Airshow (October 1-3)
 
-<center><img src="004.jpg" width="75%" height="75%"></center>
+<center><img src="004.jpg" width="50%" height="50%"></center>
 
 Centered over the Huntington Beach waterfront, the Pacific Airshow combined a sunny day at the beach with thrilling air displays. 
 
-<center><img src="005.jpg"></center>
+<center><img src="005.jpg" width="50%" height="50%"></center>
 
 The event was highlighted by a rare trifecta of the USN Blue Angels, USAF Thunderbirds, and RCAF Snowbirds. Having caught both the Thunderbirds and Snowbirds the week prior, I was very much looking forward to seeing them again. This was also my first time watching the Blue Angels since their transition from the F/A-18C Hornet to the larger and more powerful F/A-18E Super Hornet. The pilots were still able to pull off their signature formations with minimal wingtip-to-wingtip separation but the newer Super Hornets were much louder which enchanced several features of the show, most notably the sneak pass. 
 
-<center><img src="006.jpg" width="75%" height="75%"></center>
+<center><img src="006.jpg" width="50%" height="50%"></center>
 
 Several intriguing aircraft took part in the airshow. One was the Yak-110, a highly aerobatic machine created using the fuselages of two Yak-55s with an additional turbojet engine mounted in the center. Another was a McDonnell Douglas MD-10 convered into the Orbis Flying Eye Hospital. The aircraft is used to train doctors and treat patients across the globe. 
 

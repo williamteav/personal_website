@@ -22,7 +22,7 @@ My interest in historic aircraft took flight during my childhood when I came acr
 * Mikoyan-Gurevich MiG-19
 * Mikoyan-Gurevich MiG-21
 * [Mikoyan-Gurevich MiG-23](https://williamteav.github.io/personal_website/scale_aircraft/mig23.html)
-* [Mikoyan-Gurevich MiG-25](https://williamteav.github.io/personal_website/scale_aircraft/mig25.html)
+* Mikoyan-Gurevich MiG-25
 * [Mitsubishi A6M2 Zero](https://williamteav.github.io/personal_website/scale_aircraft/a6m.html)
 * [Nakajima B5N2](https://williamteav.github.io/personal_website/scale_aircraft/b5n.html)
 * [Nakajima Ki-43-II Hayabusa](https://williamteav.github.io/personal_website/scale_aircraft/ki43.html)
