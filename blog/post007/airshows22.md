@@ -40,7 +40,7 @@ After a thirteen-year hiatus, Edwards Air Force Base opens its gates to an airsh
 Aviation Nation occurs every other year at Nellis Air Force Base, located not too far away from the famous Las Vegas strip. Nellis plays a vital role in aerial combat training and regularly hosts a multinational training exercise known as Red Flag. The base is home to aggressor F-16s and F-35s sporting paint schemes similar to those applied on Russian and Chinese fighters. Aviation Nation is highly regarded as one of the best airshows in the United States and the 2022 edition aced both the exhibits and the flying demonstrations. Some of the aircraft on display included the A-10, F-22, F-35, B-1, and AH-64. There were also plenty of booths to purchase merchandise and souvenirs. One of the more unique items to gaze upon was a Russian 9K33 Osa surface-to-air missile vehicle. Attendees could also pick up and hold a variety of both American and Russian firearms. Looking upwards, spectators were treated to displays from the F-22, F-35, F/A-18, and EA-18G demo teams. The crown jewel of Aviation Nation is the combined arms demonstration, which is an immersive airfield defense, ground attack, and rescue simulation. The skies were filled with the roar as F-35s and F-22s clashed with aggressor F-16s, clearing the path for airstrikes by F-15Es and A-10s. The pyrotechnics were superb and the use of flares awed the crowd. The event concluded with the season finale performance of the Thunderbirds, who are based at Nellis. Aviation Nation is a highly rated airshow and an absolute must-see. 
 
 --- 
-### Final Thoughts
+## Final Thoughts
 
 <center><img src="08.jpg" width="100%" height="100%"></center>
 
