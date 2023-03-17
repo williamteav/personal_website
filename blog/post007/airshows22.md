@@ -42,6 +42,6 @@ Aviation Nation occurs every other year at Nellis Air Force Base, located not to
 --- 
 ## Final Thoughts
 
-<center><img src="08.jpg" width="100%" height="100%"></center>
+<center><img src="08.JPG" width="100%" height="100%"></center>
 
 From the vast expanse of Rogers Dry Lake to the cozy coastline of Huntington Beach, last year’s airshows were spectacular, breathtaking, and memorable. No matter how many times I observed the same demo flight routine or aerial demonstration performance, it always felt like I was seeing it for the first time ever. With a new airshow season around the corner, I look forward to what surprises 2023 has in store. 
