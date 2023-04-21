@@ -10,13 +10,13 @@ Below are brief descriptions of just a few of the performers and displays at the
 
 ## National Anthem Flyover
 
-<center><img src="2.JPG" width="70%" height="70%"></center>
+<center><img src="2.jpg" width="70%" height="70%"></center>
 
 The airshow opened with the singing of the Star Spangled Banner accompanied by a three-ship helicopter flyover. All three helcopters were operated by an all-female crew as the Navy commemorated fifty years of 
 
 ## Pacific War Reenactment
 
-<center><img src="3.JPG" width="80%" height="80%"></center>
+<center><img src="3.jpg" width="80%" height="80%"></center>
 
 The Commemorative Air Force’s Southern California Wing, located in nearby Camarillo, choreographed a mock Pacific Theater air battle with their North American PBJ Mitchell, Grumman F6F Hellcat, and Mitsubishi A6M Zero. 
 
