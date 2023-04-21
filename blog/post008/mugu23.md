@@ -42,7 +42,7 @@ Based on the Lockheed L-188 Electra airliner, the P-3 Orion is a maritime patrol
 
 <center><img src="7.JPEG" width="100%" height="100%"></center>
 
-The Super Hornet, nicknamed “Rhino”, is the frontline fighter of the US Navy. It succeeded the similar looking but smaller F/A-18 A-D models, now referred to as “legacy Hornets”. In addition to the Super Hornets being flown by the Blue Angels, there were several lined up on static display. Several of the Super Hornets present belonged to VX-31 “Dust Devils” and VX-9 “Vampires”. Both squadrons are based at aval Air Weapons Station China Lake. The Super Hornet which attracted the most attention was F/A-18F 166673, which was recently painted in the “Black Bunny” scheme.
+The Super Hornet, nicknamed “Rhino”, is the frontline fighter of the US Navy. It succeeded the similar looking but smaller F/A-18 A-D models, now referred to as “legacy Hornets”. In addition to the Super Hornets being flown by the Blue Angels, there were several lined up on static display. Many of the Super Hornets present belonged to either VX-31 “Dust Devils” or VX-9 “Vampires”. Both squadrons are based at Naval Air Weapons Station China Lake. The Super Hornet which attracted the most attention was F/A-18F 166673, which was recently painted in the “Black Bunny” scheme.
 
 ## McDonnell Douglas AV-8B Harrier II
 
