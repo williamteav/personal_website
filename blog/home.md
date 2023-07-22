@@ -4,6 +4,7 @@
 
 ## Posts
 
+* [July 22, 2023 - 2023 Southern California Air Show Static Displays](https://williamteav.github.io/personal_website/blog/post008/socal23.html)
 * [April 20, 2023 - 2023 Point Mugu Air Show Recap](https://williamteav.github.io/personal_website/blog/post008/mugu23.html)
 * [March 16, 2023 - Full Throttle](https://williamteav.github.io/personal_website/blog/post007/airshows22.html)
 * [June 19, 2022 - A Tale of Two Airshows](https://williamteav.github.io/personal_website/blog/post006/airshowsfall21.html)
