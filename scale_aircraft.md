@@ -29,4 +29,4 @@ My interest in historic aircraft took flight during my childhood when I came acr
 * North American F-86F-30 Sabre 
 * [North American P-51D Mustang](https://williamteav.github.io/personal_website/scale_aircraft/p51.html)
 * [Sukhoi Su-47 Berkut](https://williamteav.github.io/personal_website/scale_aircraft/su47.html)
-* [Supermarine Spitfire Mk 1](https://williamteav.github.io/personal_website/scale_aircraft/spitfire.html)
+* Supermarine Spitfire Mk 1

@@ -12,7 +12,7 @@ Below are brief descriptions of just a few of the performers and displays at the
 
 <center><img src="2.jpg" width="70%" height="70%"></center>
 
-The airshow opened with the singing of the Star Spangled Banner accompanied by a three-ship helicopter flyover. All three helcopters were operated by an all-female crew as the Navy commemorated fifty years of 
+The airshow opened with the singing of the Star Spangled Banner accompanied by a three-ship helicopter flyover. All three helcopters were operated by an all-female crew as the Navy commemorated fifty years of women in naval aviation.
 
 ## Pacific War Reenactment
 
