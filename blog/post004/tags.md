@@ -17,22 +17,3 @@ Fuselage tags exist from a wide variety of aircraft, ranging from WWII fighters 
 I personally have purchased a few tags for myself. I tend to gravitate towards military aircraft and there is a smaller selection of those tags to come around. I made my first purchase in August 2020 with PlaneTags. Based in Southern California, they are perhaps the largest producer of fuselage tags in the Western Hemisphere and carry a wide inventory. In the months since, I have also purchased from vendors in the United Kingdom and Poland. 
 
 I currently display my tags in a binder. I place my tags into four-pocket, 3.5" x 5" photo protectors. The tags slide in easily and are kept safe and organized. 
-
-## List of Tag Vendors (last updated December 2021)
-  
-> [Aerotiques](https://www.aerotiques.co.uk)  
-> [AusTags](https://austags.com/)  
-> [Aviationtag](https://www.aviationtag.com)  
-> [Avro Designs](https://www.avrodesigns.co.uk)  
-> [doors2manual](https://www.doors2manual.org/)  
-> [Flight Inspiration](https://flightinspiration.com)  
-> [Fuselage Creations](https://partofaplane.com/collections/fuselage-creations)  
-> [Icarus Originals](https://icarusoriginals.com/product-category/all-products/tags/)  
-> [Jet Eyes](https://www.jet-eyes.com)  
-> [Plane Chains](https://www.planechains.ca)  
-> [PlaneTags](https://planetags.com)  
-> [Relic Design & Craft](https://www.relicdesignco.com)  
-> [SkyArt](https://www.skyart.com)  
-> [Tailfins](https://tailfins.co.uk/)  
-
-Note that many of the above shops sell more than just tags! 
