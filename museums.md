@@ -1,6 +1,8 @@
 ## Museums
 
-<center><img src="fhcam.JPEG"></center>
+<center>
+    <img src="fhcam.JPEG" width="90%" height="90%">
+</center>
 
 Museums are a great way to connect with history and get a glimpse of the past. I can spend hours at any of the locations featured below.
 
