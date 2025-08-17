@@ -1,10 +1,8 @@
 ## Museums
 
-<center><img src="CASTLE1.JPG"></center>
+<center><img src="fhcam.JPEG"></center>
 
 Museums are a great way to connect with history and get a glimpse of the past. I can spend hours at any of the locations featured below.
-
-#
 
 * [Commemorative Air Force SoCal Wing](https://williamteav.github.io/personal_website/blog/post003/caf.html)
 * [Castle Air Museum](https://williamteav.github.io/personal_website/blog/post002/entry.html)
