@@ -8,7 +8,7 @@ For half a century, NATO and the Warsaw Pact engaged in an arms race for control
 
 A fairly sizable book, Michael Napier's *In Cold War Skies* chronicles how the NATO and Warsaw Pact air forces evolved throughout decades of heightened tension. With over 300 pages filled with images, narration, and anecdotes, the author goes into great detail about specific units, incidents, and tactics. Furthermore, these snippets tie together into a greater narrative about geopolitics and faction where NATO and the Warsaw Pact are analyzed not as individual entities but a conglomerate of allied nations. While the book exclusively focuses on the European theater, global events are brought in as necessary to demonstrate how the Cold War was truly a worldwide affair. 
 
-The book shines in its thorough coverage of the Cold War. The constant reorganization and reequipment underwent by each air force is chronicled along with comparisons of various weapons systems. Several primary sources are brought in to offer an inside glimpse into missions, excerises, and general preparation for a conflict which never arrived. 
+The book shines in its thorough coverage of the Cold War. The constant reorganization and reequipment underwent by each air force is chronicled along with comparisons of various weapons systems. Several primary sources are brought in to offer an inside glimpse into missions, exercises, and general preparation for a conflict which never arrived. 
 
 <center><img src="incoldwarskies/cws3.JPG" width="60%" height="60%" class="center"></center>
 
