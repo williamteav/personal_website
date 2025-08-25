@@ -20,7 +20,7 @@ Developed from the Vietnam-era AH-1 Cobra, the Viper serves as the primary Marin
 
 ### Bell UH-1Y Venom
 
-<center><img src="miramar23/uh1.JPG" width="80%" height="80%"></center>
+<center><img src="miramar23/uh1.JPEG" width="80%" height="80%"></center>
 
 Developed from the Vietnam-era UH-1 Huey, the Venom provides both transport and light attack capabilities.
 
@@ -46,7 +46,7 @@ The Super Stallion is the Marines' primary heavy lift helicopter. CH-53s took pa
 
 ### Northrop F-5N Tiger II
 
-<center><img src="miramar23/f5.JPG" width="100%" height="100%"></center>
+<center><img src="miramar23/f5.JPEG" width="100%" height="100%"></center>
 
 This F-5N is assigned to VMFT-401 "Snipers" from Marine Corps Air Station Yuma. VMFT-401 is an adversary squadron and its aircraft are painted to mimic Soviet fighters.
 
@@ -62,7 +62,7 @@ NASA also owns a small fleet of F/A-18s to observe experiments as chase aircraft
 
 ### Lockheed Martin F-35B Lightning II
 
-<center><img src="miramar23/f35.JPG" width="100%" height="100%"></center>
+<center><img src="miramar23/f35.JPEG" width="100%" height="100%"></center>
 
 The F-35B is capable of short takeoffs and vertical landings, making it ideal for operations aboard amphibious landing ships and helicopter carriers. 
 
